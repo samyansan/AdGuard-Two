@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-19 02:00:50
-! Total count: 83320
+! Version: 2023-03-19 08:29:50
+! Total count: 83304
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -4706,7 +4706,6 @@
 ||ado.delfi.ee^
 ||adobe-l.com^
 ||adobe-sync.dotomi.com^
-||adobeacrobatreader.site^
 ||adobecorp.data.adobedc.net^
 ||adobee.com^
 ||adobetag.com.edgekey.net^
@@ -15941,7 +15940,6 @@
 ||brokertraffic.com^
 ||broland.ir^
 ||bromf.com^
-||brominemilages.com^
 ||brominer.com^
 ||brominewf.guru^
 ||bromismcrouton.com^
@@ -17296,6 +17294,7 @@
 ||cartcomsistemas.com.br^
 ||cartining-specute.com^
 ||cartograf.com.mx^
+||cartoon-clock.click^
 ||cartoonnetwork.122.2o7.net^
 ||cartoonpeecommissioner.com^
 ||cartponi.tk^
@@ -18689,12 +18688,12 @@
 ||chipsleapt.com^
 ||chipssa.net^
 ||chiptionics.co^
+||chiptune.com^
 ||chiragdinsports.com^
 ||chirkacylal.com^
 ||chiroouterly.com^
 ||chirpingsparrows.com^
 ||chirppronounceaccompany.com^
-||chirpsonancy.com^
 ||chissaibsgirls.com^
 ||chistinfo.com^
 ||chistkabumps.uno^
@@ -20499,6 +20498,7 @@
 ||con.org.ni^
 ||conacparkview.com^
 ||conadalbania.al^
+||conalom.top^
 ||conanca.org^
 ||conary-invered.com^
 ||conas.uz^
@@ -20990,7 +20990,6 @@
 ||corba.adtech.fr^
 ||corbalanlopez.com^
 ||corbnnpdwar.com^
-||corderclotho.com^
 ||cordha.com^
 ||cordilleraaustral.cl^
 ||cordobabureau.com.ar^
@@ -21811,7 +21810,6 @@
 ||cronoatletas.uy^
 ||cronomed.co^
 ||cronomed.com.co^
-||croodlebugloss.com^
 ||croplake.com^
 ||croppayslipsconstruction.com^
 ||cross-a.net^
@@ -22205,7 +22203,6 @@
 ||curriculture.com^
 ||currierfrank.com^
 ||currol.com^
-||currsagoge.com^
 ||cursa.iad-03.braze.com^
 ||curseaprilsnow.com^
 ||curseintegralproduced.com^
@@ -23856,7 +23853,6 @@
 ||dcai7bdiz5toz.cloudfront.net^
 ||dcapglobal.org^
 ||dcb7.campaign.tworiversboat.com^
-||dcbhaulm.com^
 ||dcbnameapneas.com^
 ||dcbpm.suning.cn^
 ||dcc-rlms.co.tz^
@@ -27342,7 +27338,6 @@
 ||ectuallyenitwas.info^
 ||ecuadortkd.com^
 ||ecube.pk^
-||ecusribwort.com^
 ||ecustomeropinions.com^
 ||ecwdemo.werthebest.in^
 ||ecxotmlrqovtmy.com^
@@ -27980,7 +27975,6 @@
 ||elkatibi.com^
 ||elkbahtax.com^
 ||elkconsistbirch.com^
-||elkdomshute.com^
 ||elkhomsa-olivewood.tn^
 ||elko-organization.com^
 ||ellaahotel.com^
@@ -28311,7 +28305,6 @@
 ||eneverthewin.xyz^
 ||enews10.yxlady.net^
 ||enfarcearriero.uno^
-||enfeoffcaraipi.com^
 ||enfermerasviamedica.com^
 ||enfieldriders.com^
 ||enfreine.com^
@@ -29766,7 +29759,6 @@
 ||f1.ichong123.com^
 ||f1.pig66.com^
 ||f1.zaojv.com^
-||f11-ads.com^
 ||f11.hackhome.com^
 ||f11098.privacy4browsers.com^
 ||f1190.com^
@@ -35668,7 +35660,6 @@
 ||handfullessays.com^
 ||handicraftoceanindia.com^
 ||handikaputra.my.id^
-||handingfama.com^
 ||handkerchiefpersonnel.com^
 ||handleflesh.com^
 ||handleteeth.com^
@@ -40350,7 +40341,6 @@
 ||itnxxa.xyz^
 ||itop.cz^
 ||itpatratr.com^
-||itpest.cn^
 ||itpoint24.com^
 ||itponytaa.com^
 ||itprodesk.com^
@@ -41692,8 +41682,6 @@
 ||juruiklan.com^
 ||juryinvolving.com^
 ||jusbertimla4ke2.com^
-||jusheng.asia^
-||jusheng.icu^
 ||juslivtv.com^
 ||jusoortraining.com^
 ||jussiwhauds.com^
@@ -42657,7 +42645,6 @@
 ||kloynfsag.com^
 ||klsdee.com^
 ||klsdmr.com^
-||klsnckalualkcn.com^
 ||kltxw.xyz^
 ||klxwe.xyz^
 ||klyeconnecte.xyz^
@@ -44442,6 +44429,7 @@
 ||lightstep.medium.systems^
 ||ligninenchant.com^
 ||ligulaeideated.guru^
+||liidv.world^
 ||liimctegtalw.top^
 ||liivecams.com^
 ||lijasyabrasivos.com^
@@ -47924,7 +47912,6 @@
 ||menlithium.com^
 ||menmaximus.com^
 ||menmom.info^
-||menowlehayim.com^
 ||mens.1.p2l.info^
 ||mens.ge^
 ||mensingpumice.space^
@@ -51172,7 +51159,6 @@
 ||neffor.com^
 ||nefies.com^
 ||nefraommyr.top^
-||neg.hk^
 ||negationsome.com^
 ||negativehorriblecrumple.com^
 ||neginshayeste.com^
@@ -52099,7 +52085,6 @@
 ||noextramoney.com^
 ||noflake-aggregator-http.narvar.com^
 ||nofortune.co^
-||nogsnares.com^
 ||noham-wolpe.org^
 ||nohung.com^
 ||nohungtesting.com^
@@ -57217,6 +57202,7 @@
 ||podfdch.com^
 ||podiumacaiteria.com.br^
 ||podiumpresto.com^
+||podlf.world^
 ||podomorolaser.com^
 ||podosupsurge.com^
 ||podrama.net^
@@ -57664,7 +57650,6 @@
 ||potencialurbanismo.com.br^
 ||potentill3afr5ui7ticosa.com^
 ||potentingaknt.club^
-||potfulsyipe.com^
 ||pothutepu.com^
 ||potionutilize.com^
 ||potnormal.com^
@@ -58896,6 +58881,7 @@
 ||ptetchie.net^
 ||ptewarin.net^
 ||ptewauta.net^
+||ptgncdn.com^
 ||pthod.com^
 ||pthuriputama.co.id^
 ||ptichile.com^
@@ -60659,7 +60645,6 @@
 ||rconventure.top^
 ||rcounter.rambler.ru^
 ||rcp.evolok.net^
-||rcpttankert.com^
 ||rcramos.com^
 ||rcsadv.it^
 ||rcuacroossonek.xyz^
@@ -68311,7 +68296,6 @@
 ||sptkhvhhs.xyz^
 ||spuezain.com^
 ||spuggysorbol.website^
-||spunkyuntiled.com^
 ||spuriousbase.com^
 ||spurioussteam.com^
 ||spuriousstranger.com^
@@ -71182,6 +71166,7 @@
 ||talsauve.com^
 ||talysu.info^
 ||tam.outbrain.com^
+||tamanzakat.org^
 ||tamaraoolympic.life^
 ||tamaskasza.com^
 ||tamayaservicios.com^
@@ -72112,7 +72097,6 @@
 ||tf111.xyz^
 ||tf2www.com^
 ||tfag.de^
-||tfallview.live^
 ||tfaln.com^
 ||tfbidahydrldafr.xyz^
 ||tfcwears.com^
@@ -75843,6 +75827,7 @@
 ||typebeatcentral.com^
 ||typescoordinate.com^
 ||typhonwave.com^
+||typical-core.click^
 ||typicalairplane.com^
 ||typicalstudent.org^
 ||typicalteeth.com^
@@ -79949,7 +79934,6 @@
 ||whukroal.net^
 ||whulsaux.com^
 ||whulterprotein.com^
-||whum.top^
 ||whuptaiz.net^
 ||why-breakup.com^
 ||whybuyitnow.com^
@@ -81022,6 +81006,7 @@
 ||x.disq.us^
 ||x.everesttech.net^
 ||x.interia.pl^
+||x.oanda.com^
 ||x.porn.fr^
 ||x.sexhd.pics^
 ||x.skimresources.com^
@@ -81745,7 +81730,6 @@
 ||xvuslink.com^
 ||xvwebllndr.com^
 ||xvyljkr.com^
-||xwewwgk.cn^
 ||xwheel.eu^
 ||xwirkfunckk.xyz^
 ||xwjexukpdkvoflb.xyz^
