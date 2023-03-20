@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-20 02:00:37
-! Total count: 83381
+! Version: 2023-03-20 08:28:22
+! Total count: 83376
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -1934,7 +1934,6 @@
 ||7frenchweb.fr^
 ||7fva8algp45k.com^
 ||7g9m3r.com^
-||7gallery.com^
 ||7gfs.com^
 ||7gomedia.ru^
 ||7gukaip.xyz^
@@ -2238,7 +2237,6 @@
 ||9akjbsdkjas0.monster^
 ||9akjsbjkdasd99.monster^
 ||9akwbkdajw99.monster^
-||9bc94f7305.com^
 ||9c40a04e9732e6a6.com^
 ||9cb98.signing.unitynotarypublic.com^
 ||9cbj41a5.de^
@@ -10460,6 +10458,7 @@
 ||applandlight.com^
 ||applaudliteratureconsultant.com^
 ||applausesuch.com^
+||apple-service93.ru^
 ||apple-val.looksmart.com^
 ||apple.analnoe24.com^
 ||apple.arabtoons.net^
@@ -13539,7 +13538,6 @@
 ||be-rtl.videoplaza.tv^
 ||be-well.es^
 ||be02b.asset.tradingvein.xyz^
-||be59d81163.com^
 ||bea-s.dinghuoche.com^
 ||beabsolom.com^
 ||beachamptonmotors.co.uk^
@@ -14280,6 +14278,7 @@
 ||bgadx.com^
 ||bgbarltd.com^
 ||bgclck.me^
+||bgcold.com^
 ||bgektxiadljflu.xyz^
 ||bgfd3w7uj.click^
 ||bgfgwcvuaynm.xyz^
@@ -18717,6 +18716,7 @@
 ||chiyih.com^
 ||chl7rysobc3ol6xla.com^
 ||chligh.com^
+||chlign.com^
 ||chlinb.xyz^
 ||chlod-qui.com^
 ||chlodd.com^
@@ -28933,7 +28933,6 @@
 ||etcanaengineering.com^
 ||etcodes.com^
 ||etctrucks.ro^
-||etdcezc.cn^
 ||etdemo.in^
 ||etecsys.net^
 ||etek.co.in^
@@ -38146,7 +38145,6 @@
 ||icstats.nl^
 ||icu.getstorybox.com^
 ||iculturalbr.org.br^
-||icwxhuvssqdkc.com^
 ||icycorrection.com^
 ||icyporno.com^
 ||icyrd.com^
@@ -43508,12 +43506,12 @@
 ||lambingsyddir.com^
 ||lambu.info^
 ||lame7bsqu8barters.com^
+||lameguard.ru^
 ||lameletters.com^
 ||lamerenfrancais.com^
 ||lameterthenhep.com^
 ||lamforsung.com^
 ||lamh.online^
-||laminarrailage.com^
 ||laming.xyz^
 ||lamired.com^
 ||lammasbananas.com^
@@ -62467,7 +62465,6 @@
 ||rollodoors.com^
 ||rollsbeer.com^
 ||rollserver.xyz^
-||rolqjpdobpb.com^
 ||rolzox.com^
 ||romagetukio.xyz^
 ||romalitod.com^
@@ -75396,7 +75393,6 @@
 ||tsatwushcyiihh.com^
 ||tsbm.ch^
 ||tschudy.net^
-||tsck.online^
 ||tscounter.com^
 ||tscsdspwxeedkg.top^
 ||tsded-sa.com^
@@ -81020,7 +81016,6 @@
 ||wxspfkln.com^
 ||wxtp.cdn.bcebos.com^
 ||wxyn0o3xmora.com^
-||wxzrw.com^
 ||wy-technology.com^
 ||wy.5.p2l.info^
 ||wy213.com^
