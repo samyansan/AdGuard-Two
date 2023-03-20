@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-20 20:00:41
-! Total count: 83376
+! Version: 2023-03-21 02:00:52
+! Total count: 83374
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -3591,7 +3591,6 @@
 ||ad.huvle.com^
 ||ad.hyena.cz^
 ||ad.icheck.com.vn^
-||ad.ieurop.net^
 ||ad.iinfo.cz^
 ||ad.il.doubleclick.net^
 ||ad.iloveinterracial.com^
@@ -4331,7 +4330,6 @@
 ||adi.vcmedia.vn^
 ||adiba.pk^
 ||adical.de^
-||adicate.com^
 ||adiceltic.de^
 ||adidm.idmnet.pl^
 ||adigi.icu^
@@ -4830,7 +4828,6 @@
 ||adprosrv.com^
 ||adprotect.net^
 ||adprotected.com^
-||adprotraffic.com^
 ||adprovi.de^
 ||adproxy.tf1.fr^
 ||adpublisher.s3.amazonaws.com^
@@ -10641,6 +10638,7 @@
 ||aqpogwawr.com^
 ||aqsimkpg.xyz^
 ||aqsmm.com^
+||aqt.adalliance.io^
 ||aqtracker.com^
 ||aqua-adserver.com^
 ||aqua-viva.cl^
@@ -11331,7 +11329,6 @@
 ||aspservice.jp^
 ||aspsupermercados.com.br^
 ||aspsupport.hu^
-||asq.ezakus.net^
 ||asrani.garudaputih.com^
 ||asretarahisanaati.ir^
 ||asrety.com^
@@ -37015,7 +37012,6 @@
 ||holyrisen.com^
 ||homazingbysr.com^
 ||homchang.site^
-||home.edt02.net^
 ||home.foni.net^
 ||home.gelsennet.de^
 ||home.townisp.com^
@@ -46357,6 +46353,7 @@
 ||mafgaq.com^
 ||mafifun.ir^
 ||mafitoys.com^
+||mafo.adalliance.io^
 ||mafobilconsulting.com^
 ||mafrarc3e9h.com^
 ||maftech-service.com^
@@ -74361,6 +74358,7 @@
 ||tracking-widget.fillr.com^
 ||tracking-xaxis.adsafety.net^
 ||tracking.adactioninteractive.com^
+||tracking.adalliance.io^
 ||tracking.adgoon.it^
 ||tracking.admarketplace.net.edgekey.net^
 ||tracking.ads.global-fashion-group.com^
