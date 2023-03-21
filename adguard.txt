@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-21 20:00:25
-! Total count: 83466
+! Version: 2023-03-22 02:00:22
+! Total count: 83468
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -14510,6 +14510,7 @@
 ||biinminigihi.com^
 ||bijitsoa.com^
 ||bijwawr.com^
+||bikannovel.com^
 ||biking.com.br^
 ||bikinigiare.com^
 ||bikkviz.com^
@@ -25644,7 +25645,6 @@
 ||dmpsj.cn^
 ||dmptcourse.com^
 ||dmpxs.com^
-||dmqi.ltd^
 ||dmr.cnhoney.com^
 ||dmrygghrhotdpl.xyz^
 ||dmrzwh2nnpd64.cloudfront.net^
@@ -58938,6 +58938,7 @@
 ||psurigrabi.com^
 ||psvgnczo.com^
 ||psvpromo.psvgamestudio.com^
+||psvvzb.xyz^
 ||psxxbhheqxoy.com^
 ||psycedelicshead.co^
 ||psychaltuxes.com^
@@ -64020,7 +64021,6 @@
 ||sannomed.com.br^
 ||sannsyn.com^
 ||sannupsendysis.uno^
-||sanqian.pro^
 ||sanriflenses.com^
 ||sansaramedulla.website^
 ||sanskarsensecschool.in^
@@ -79342,6 +79342,7 @@
 ||wealthyprovisionsclay.com^
 ||wealthywoman.co.uk^
 ||weaponsort.club^
+||weaquc.xyz^
 ||wearbasin.com^
 ||wearbronte.com^
 ||weareairo.org^
@@ -81205,6 +81206,7 @@
 ||xads.one^
 ||xadsmart.com^
 ||xadstruct0rx.com^
+||xageias.cn^
 ||xahhhptqa.top^
 ||xahydp.cn^
 ||xalienstreamx.com^
