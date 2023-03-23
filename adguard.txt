@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-23 02:00:45
-! Total count: 83516
+! Version: 2023-03-23 08:26:49
+! Total count: 83512
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -3872,7 +3872,6 @@
 ||ad4.udn.com^
 ||ad44.cc^
 ||ad47.atlas.cz^
-||ad48.atlas.cz^
 ||ad4989.co.kr^
 ||ad4cash.de^
 ||ad4game.com^
@@ -4339,6 +4338,7 @@
 ||adi.vcmedia.vn^
 ||adiba.pk^
 ||adical.de^
+||adicate.com^
 ||adiceltic.de^
 ||adidm.idmnet.pl^
 ||adigi.icu^
@@ -8281,7 +8281,6 @@
 ||alleviatepracticableaddicted.com^
 ||alleyskin.com^
 ||allfet.info^
-||allffers.com^
 ||allfreecounter.com^
 ||allfreshposts.com^
 ||allhairstyles.co.za^
@@ -10659,7 +10658,6 @@
 ||aqpogwawr.com^
 ||aqsimkpg.xyz^
 ||aqsmm.com^
-||aqt.adalliance.io^
 ||aqtracker.com^
 ||aqua-adserver.com^
 ||aqua-viva.cl^
@@ -11352,6 +11350,7 @@
 ||aspservice.jp^
 ||aspsupermercados.com.br^
 ||aspsupport.hu^
+||asq.ezakus.net^
 ||asrani.garudaputih.com^
 ||asretarahisanaati.ir^
 ||asrety.com^
@@ -46436,7 +46435,6 @@
 ||mafgaq.com^
 ||mafifun.ir^
 ||mafitoys.com^
-||mafo.adalliance.io^
 ||mafobilconsulting.com^
 ||mafrarc3e9h.com^
 ||maftech-service.com^
@@ -46904,7 +46902,6 @@
 ||marathavadhuvarakg.com^
 ||marathongenerositypremiere.com^
 ||marazma.com^
-||marbct.xyz^
 ||marblecaution.com^
 ||marboconinc.com^
 ||marc.pe^
@@ -74475,7 +74472,6 @@
 ||tracking-widget.fillr.com^
 ||tracking-xaxis.adsafety.net^
 ||tracking.adactioninteractive.com^
-||tracking.adalliance.io^
 ||tracking.adgoon.it^
 ||tracking.admarketplace.net.edgekey.net^
 ||tracking.ads.global-fashion-group.com^
