@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-24 02:00:46
-! Total count: 83656
+! Version: 2023-03-24 08:25:31
+! Total count: 83654
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -58140,7 +58140,6 @@
 ||preemiesurnap.com^
 ||preetinfotech.com^
 ||preetiscatering.com^
-||preezeaorist.com^
 ||prefabskhivan.com^
 ||prefasur.cl^
 ||preferablycompletion.com^
@@ -83555,7 +83554,6 @@
 ||zugnogne.com^
 ||zujilife.online^
 ||zujoupso.net^
-||zukddms.cn^
 ||zukodata.com.ng^
 ||zukore.com^
 ||zuks.lv^
