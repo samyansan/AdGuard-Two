@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-25 14:00:33
-! Total count: 84115
+! Version: 2023-03-25 20:00:37
+! Total count: 84111
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -26121,7 +26121,6 @@
 ||doobaupu.xyz^
 ||doobinooby.com^
 ||doobyyooby.com^
-||dooca.store^
 ||doogroaw.net^
 ||doogroum.xyz^
 ||dooloust.net^
@@ -27966,7 +27965,6 @@
 ||eiinaq.xyz^
 ||eikegolehem.com^
 ||eikonmexico.com^
-||eimerhabus.com^
 ||eincre.com^
 ||einsteinkids.co.in^
 ||einsteinkidsinternational.com^
@@ -32481,7 +32479,6 @@
 ||fugenint.com^
 ||fugetech.com^
 ||fugles.net^
-||fuglingkiev.com^
 ||fugufeimaotui.cn^
 ||fuhaimuye.cn^
 ||fuigixk.cn^
@@ -45981,7 +45978,6 @@
 ||loscart.com^
 ||lose4admin.de^
 ||losecounter.de^
-||loselsplatten.com^
 ||loshrhaphae.com^
 ||losingfoundation.com^
 ||losingoldfry.com^
