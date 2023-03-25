@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-25 20:00:37
-! Total count: 84111
+! Version: 2023-03-26 02:00:26
+! Total count: 84107
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -41243,7 +41243,6 @@
 ||jerseyyachts.com^
 ||jersit.com^
 ||jerupt.com^
-||jervinreverdi.uno^
 ||jesaifie.com^
 ||jesambeauty.com^
 ||jesamcorp.com^
@@ -64661,7 +64660,6 @@
 ||sausagehouse.in^
 ||saushoag.net^
 ||sautemoo.net^
-||sauvecybele.com^
 ||sauwoaptain.com^
 ||sauwonie.com^
 ||savagedsolary.website^
@@ -72561,7 +72559,6 @@
 ||tenthsfrumpy.com^
 ||tentletunkept.uno^
 ||tentmess.com^
-||tentorycomales.space^
 ||tentvault.com^
 ||tenuate.1.p2l.info^
 ||teofilo.com.br^
@@ -76018,7 +76015,6 @@
 ||tryradfit.com^
 ||trysera.com^
 ||trysewa.com^
-||trystedmassula.com^
 ||trytipemo.com^
 ||trytune.com^
 ||trzi30ic.com^
