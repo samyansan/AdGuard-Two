@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-26 20:00:29
-! Total count: 84388
+! Version: 2023-03-27 02:00:32
+! Total count: 84377
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -6918,7 +6918,6 @@
 ||aem-collector.daumkakao.io^
 ||aene.com.ec^
 ||aeoliancorojo.com^
-||aeolicholsom.com^
 ||aeolismtact.com^
 ||aeonproducts.com^
 ||aephine.com^
@@ -8143,7 +8142,6 @@
 ||alfonsino.top^
 ||alfonsowedslester.com^
 ||alfosac.pe^
-||alfpair.com^
 ||alfredreinigung.ch^
 ||alfredwilloughby.com^
 ||alfursantravel.com^
@@ -17458,7 +17456,6 @@
 ||carscannon.com^
 ||carsoccasions.com^
 ||carsoft.md^
-||carstensorrowy.com^
 ||cartaosempreamigo.com.br^
 ||cartbuilder.live^
 ||cartcomsistemas.com.br^
@@ -26911,7 +26908,6 @@
 ||dunderaffiliates.com^
 ||dunganof.com^
 ||dungcuubongban.com^
-||dungolsplash.com^
 ||dunhilltraveldeals.com^
 ||dunia-selam.com^
 ||duniaparabola.com^
@@ -42920,7 +42916,6 @@
 ||kikckfirtss.com^
 ||kiki.s3.fr-par.scw.cloud^
 ||kikibobo.top^
-||kikiloobily.com^
 ||kikizon.net^
 ||kiklivejoinstream.com^
 ||kikoucuy.net^
@@ -62522,7 +62517,6 @@
 ||revee.outbrain.com^
 ||revelationneighbourly.com^
 ||reveler.pk^
-||revellyoxfords.com^
 ||revengemeantjackpot.com^
 ||revengetenting.website^
 ||revenue.com^
@@ -69167,7 +69161,6 @@
 ||spurproteinopaque.com^
 ||sputil.com^
 ||sputnik1.ru^
-||sputumcrinel.com^
 ||spxdglpu.page.link^
 ||spxl.socy.es^
 ||spxnet.com^
@@ -70632,7 +70625,6 @@
 ||strivefoetus.com^
 ||strivenramplor.com^
 ||strivesidewalk.com^
-||strodesamani.com^
 ||strodesoot.com^
 ||stroeerdigitalmedia.de^
 ||stroke-chat.click^
@@ -74748,7 +74740,6 @@
 ||tqeobp89axcn.com^
 ||tqigphgai.xyz^
 ||tqiobngshqsv.xyz^
-||tqkfrdcwht.xyz^
 ||tqmibkqlwqdysi.com^
 ||tqvumumbs.top^
 ||tr-domaincfg.vivoglobal.com^
@@ -79906,7 +79897,6 @@
 ||waitressdivisionspring.com^
 ||waiwodemanila.com^
 ||waiyuyou.com^
-||wakeelseiches.com^
 ||wakefulcook.com^
 ||wakhrasoft.com^
 ||wakiupswacken.com^
@@ -81197,7 +81187,6 @@
 ||winesforeurope.com^
 ||winfreeprize.online^
 ||wingads.com^
-||wingcasquet.com^
 ||wingerssetiger.com^
 ||wingersunbrand.com^
 ||winges4kiptv.com^
