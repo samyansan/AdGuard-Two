@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-27 20:00:21
-! Total count: 84373
+! Version: 2023-03-28 02:00:40
+! Total count: 84396
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -939,6 +939,7 @@
 ||30sec.info^
 ||31365y.com^
 ||316feq0nc.de^
+||31830fbc-adbf-11ed-afa1-0242ac120002.site^
 ||31d.net^
 ||31d6gphkr.de^
 ||31daa5lnq.de^
@@ -1730,6 +1731,7 @@
 ||666829.xyz^
 ||666832.xyz^
 ||6669667.com^
+||6686bb.app^
 ||66885aaa.com^
 ||66997.top^
 ||66998.top^
@@ -10459,6 +10461,7 @@
 ||app.rkhom.in^
 ||app.sbz.workers.dev^
 ||app.segment.com^
+||app.skeptictyson.com^
 ||app.ssp.yahoo.com^
 ||app.titsx.com^
 ||app.torchad.com^
@@ -13272,7 +13275,6 @@
 ||baradoot.com^
 ||barafranca.iwarp.com^
 ||barahotta.com^
-||baran24.com^
 ||barbabridgeoverprotective.com^
 ||barbalonga.com.br^
 ||barbarousnerve.com^
@@ -13753,7 +13755,6 @@
 ||bear.jake.nyc^
 ||bear.modulr.design^
 ||bearagriculture.com^
-||bearcatpumps.com.cn^
 ||bearcreekliqourcentre.com^
 ||bearerassistance.com^
 ||bearingpreoccupationadmonish.com^
@@ -14133,6 +14134,7 @@
 ||berkshiretoday.xyz^
 ||berlipurplin.com^
 ||bernardorodrigues.dev.br^
+||bernhardtroost.top^
 ||bernilo.com^
 ||beroll.ru^
 ||berp.com^
@@ -18551,6 +18553,7 @@
 ||changge.info^
 ||chango.com^
 ||changtailorshop.com^
+||changyangcd.com^
 ||chanif.com^
 ||chanmao.online^
 ||channel-analysis-js.gmw.cn^
@@ -18960,6 +18963,7 @@
 ||chride.com^
 ||chrif8kdstie.com^
 ||chrigh.com^
+||chrislee.ltd^
 ||chrismediang.com^
 ||chrisrespectivelynostrils.com^
 ||christ-emmanuel.ci^
@@ -20457,6 +20461,7 @@
 ||collserve.com^
 ||colmoseshelled.com^
 ||colocolofm.cl^
+||cologger.shopping.naver.com^
 ||colognenobilityfrost.com^
 ||cologu.com^
 ||cololine-inc.com^
@@ -24157,6 +24162,7 @@
 ||ddenknowl.com^
 ||ddfnmo6ev4fd.cloudfront.net^
 ||ddhjxakewpp.com^
+||ddhs.site^
 ||ddhtek.com^
 ||ddl8.data.hu^
 ||ddla593ymz72o.cloudfront.net^
@@ -28955,6 +28961,7 @@
 ||ergdungalga.cam^
 ||ergocenter.med.br^
 ||ergonkft.hu^
+||ergrtgrtgwrgrgrgrgwregergerg.cloud^
 ||ergs4.com^
 ||ergunhali.com^
 ||ergyjjym.xyz^
@@ -32115,6 +32122,7 @@
 ||fpstudycircle.com^
 ||fpvdxd5.com^
 ||fpzpmx.com^
+||fq67.top^
 ||fqab5xq7qlgt.info^
 ||fqkffvdkcr.xyz^
 ||fqlcyvvyocbme.xyz^
@@ -39971,6 +39979,7 @@
 ||inspiringaccurate.com^
 ||inspirolle.com^
 ||inspsearchapi.com^
+||inst-hh.com^
 ||insta-cash.net^
 ||insta11butt0n.com^
 ||insta11e3d.com^
@@ -41800,6 +41809,7 @@
 ||jornalnovaepoca.com.br^
 ||jornaloespeto.com.br^
 ||jorttiuyng.com^
+||joscramp.top^
 ||joseffemme.com^
 ||josephcalculatedsewer.com^
 ||josephhearconsole.com^
@@ -43657,6 +43667,7 @@
 ||kuwoyy.com^
 ||kuxinqi.com^
 ||kuygvdt5tg.click^
+||kuyw.cn^
 ||kuzeyinyeri.site^
 ||kv-analytics.kiotviet.vn^
 ||kvaaa.com^
@@ -46061,6 +46072,7 @@
 ||loopa.net.au^
 ||loopaautomate.com^
 ||loopcoders.com^
+||loopd.cyou^
 ||loopfuse.net^
 ||loopme.com^
 ||loopme.me^
@@ -48012,6 +48024,7 @@
 ||mdt-www.marketo.com^
 ||mdt.qq.com^
 ||mdtopeka.112.2o7.net^
+||mdttasarim.com.tr^
 ||mducc.cc^
 ||mdunker.gmxhome.de^
 ||mdwardmore.112.2o7.net^
@@ -50743,6 +50756,7 @@
 ||musk-2xcoin.net^
 ||musk-ceo.com^
 ||musk-gift.io^
+||musk-give.com^
 ||musk-live.org^
 ||musk.gift^
 ||musk2023.com^
@@ -51357,6 +51371,7 @@
 ||nahdom.com^
 ||nahnoji.cz^
 ||nahotseetsoo.com^
+||nahsfl.xyz^
 ||nahuelchileltda.cl^
 ||nai.outbrain.com^
 ||nai.sharethis.com^
@@ -52845,6 +52860,7 @@
 ||normallydirtenterprising.com^
 ||normalsanpedroalejandrino.edu.co^
 ||norman-liebold.com^
+||normanhoffman.top^
 ||normkela.com^
 ||normour.com^
 ||normugtog.com^
@@ -55551,6 +55567,7 @@
 ||paddleangle.com^
 ||paddlesoothesoloist.com^
 ||paddocsweek.com^
+||padlet-uploads.storage.googleapis.com^
 ||padma-fed.com^
 ||padorpads.com^
 ||padp5arja8dgsd9cha.com^
@@ -63049,6 +63066,7 @@
 ||robelyn.com.au^
 ||rober-srr.com^
 ||robertaweb.com^
+||robertelliott.top^
 ||robertmchilespe.com^
 ||robertpattinsonbrasil.com^
 ||robescampus.com^
@@ -64715,7 +64733,6 @@
 ||santuariodiegueno.com^
 ||sanubix.vip^
 ||sanufvuhaf.com^
-||saomaibt.com^
 ||saoudflowers.com^
 ||saouknatst.com^
 ||sapa.uz^
@@ -71632,6 +71649,7 @@
 ||szalonepromocje.com^
 ||szasm8.com^
 ||szblcad.com^
+||szcmcs.com^
 ||szdzbx.com^
 ||szfr.fr^
 ||szhdhbz.com^
@@ -72184,6 +72202,7 @@
 ||target.smi2.ru^
 ||target.ukr.net^
 ||target2sell.com^
+||targetemsecure.blob.core.windows.net^
 ||targeterra.info^
 ||targetfuel.com^
 ||targeting.influencemobile.com^
@@ -73749,6 +73768,7 @@
 ||tiangu99.com^
 ||tianii.top^
 ||tiankongzudui.com^
+||tianlaoyyds.com^
 ||tianmel.xyz^
 ||tianmenshan.top^
 ||tianqi777.com^
@@ -76742,6 +76762,7 @@
 ||twtad.com^
 ||twttr.com^
 ||twu-hwt.org^
+||twuipte.cn^
 ||twyn.com^
 ||twzui6.com^
 ||tx-ad.a.yximgs.com^
@@ -77212,6 +77233,7 @@
 ||umiyyusldc.com^
 ||ummeio.org^
 ||ummerciseha.com^
+||ummnam.xyz^
 ||umovilips.com^
 ||umpire777news.com^
 ||umpireonlinebook.com^
@@ -83910,6 +83932,7 @@
 ||zevents.com^
 ||zewkj.com^
 ||zewoagoo.com^
+||zexeq.com^
 ||zeyappland.com^
 ||zeydoo.com^
 ||zeydsapps.com^
