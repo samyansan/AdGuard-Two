@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-27 02:00:32
-! Total count: 84377
+! Version: 2023-03-27 08:25:07
+! Total count: 84373
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -7292,7 +7292,6 @@
 ||agasaquecedores.com.br^
 ||agaso.de^
 ||agatarainpro.com^
-||agatesseabag.com^
 ||agatogepir.com^
 ||agatystuffs.com^
 ||agauxietor.com^
@@ -13318,7 +13317,6 @@
 ||barleylatestinches.com^
 ||barlo.xyz^
 ||barmaidhotfoot.com^
-||barmssoorma.com^
 ||barnabaslinger.com^
 ||barnassumedaddict.com^
 ||barnesandnoble.bfast.com^
@@ -14148,7 +14146,6 @@
 ||berucosmetics.com^
 ||berush.com^
 ||besaplots-nagpur.in^
-||besayleimager.com^
 ||besc.baidustatic.com^
 ||beserte.pro^
 ||besetadvocacystrap.com^
@@ -66581,7 +66578,6 @@
 ||shockadviceinsult.com^
 ||shockcounter.com^
 ||shockeddump.pro^
-||shockerascetic.com^
 ||shockersheva.com^
 ||shockinggrass.com^
 ||shockingship.com^
