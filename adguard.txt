@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-28 02:00:40
-! Total count: 84396
+! Version: 2023-03-28 08:26:11
+! Total count: 84367
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -939,7 +939,6 @@
 ||30sec.info^
 ||31365y.com^
 ||316feq0nc.de^
-||31830fbc-adbf-11ed-afa1-0242ac120002.site^
 ||31d.net^
 ||31d6gphkr.de^
 ||31daa5lnq.de^
@@ -14330,7 +14329,6 @@
 ||betnoctowlor.com^
 ||betoga.com^
 ||betonpolite.com^
-||betonychevage.com^
 ||betosslingala.com^
 ||betotodilea.com^
 ||betotodileon.com^
@@ -14624,7 +14622,6 @@
 ||bikzandylogistics.com^
 ||bilalt.com^
 ||bilalthirty.com^
-||bilandmuon.com^
 ||bildirim.eu^
 ||bildirt.com^
 ||bilecontagiousswine.com^
@@ -14637,7 +14634,6 @@
 ||bilkedsquit.com^
 ||bill.agent.56.com^
 ||billboard.cz^
-||billetsparapod.com^
 ||billielishhui.blogspot.com^
 ||billionairecoach.co.id^
 ||billionpops.com^
@@ -14719,7 +14715,6 @@
 ||bionicsremedies.in^
 ||bionticwidu.guru^
 ||bioparral.com.ve^
-||biopicresile.com^
 ||biosagentplus.com^
 ||biosalus.pt^
 ||biosda.com^
@@ -18963,7 +18958,6 @@
 ||chride.com^
 ||chrif8kdstie.com^
 ||chrigh.com^
-||chrislee.ltd^
 ||chrismediang.com^
 ||chrisrespectivelynostrils.com^
 ||christ-emmanuel.ci^
@@ -19953,7 +19947,6 @@
 ||cmkmfdrrrxcr.xyz^
 ||cml.com^
 ||cml.sad.ukrd.com^
-||cmlbromins.com^
 ||cmm.xmfish.com^
 ||cmmeglobal.com^
 ||cmn1lsm2.beliefnet.com^
@@ -24162,7 +24155,6 @@
 ||ddenknowl.com^
 ||ddfnmo6ev4fd.cloudfront.net^
 ||ddhjxakewpp.com^
-||ddhs.site^
 ||ddhtek.com^
 ||ddl8.data.hu^
 ||ddla593ymz72o.cloudfront.net^
@@ -24679,7 +24671,6 @@
 ||depotporn.com^
 ||deprecated-custom-domains.b-cdn.net^
 ||depressedsinkingbank.com^
-||depsirra.com^
 ||depsougnefta.com^
 ||depspace.com^
 ||depucelgalera.com^
@@ -26243,7 +26234,6 @@
 ||doruffletr.com^
 ||dorverre.com^
 ||dorwaza.com^
-||dorymanrob.com^
 ||dos.velek.com^
 ||dosamurottom.com^
 ||dosawhatkin.com^
@@ -32946,7 +32936,6 @@
 ||gagacon.com^
 ||gagaimall.com^
 ||gagapictures.com^
-||gageitevanlay.uno^
 ||gaghatscuba.com^
 ||gaghygienetheir.com^
 ||gagpetwet.com^
@@ -34849,7 +34838,6 @@
 ||gotwakinrollet.xyz^
 ||gotwebsite1.com^
 ||gou1zhe.com^
-||gouachejaghir.com^
 ||goucejugra.com^
 ||gouged-out.com^
 ||gouheethsurvey.space^
@@ -35437,7 +35425,6 @@
 ||grubfast.com^
 ||grubi-co.de^
 ||grubrebukevenus.com^
-||grudgedflubs.com^
 ||grudgemotivate.com^
 ||grudgewallet.com^
 ||grudreeb.com^
@@ -36863,7 +36850,6 @@
 ||heusmarketing.nl^
 ||hewawkward.com^
 ||hewmjifrn4gway.com^
-||hewnmuskrat.com^
 ||hexabyteds.com^
 ||hexadigital.ae^
 ||hexagon-analytics.com^
@@ -38119,7 +38105,6 @@
 ||humraaz.com^
 ||humsoolt.net^
 ||hunchmotherhooddefine.com^
-||hunchyconines.com^
 ||hundejo.com^
 ||hundredscultureenjoyed.com^
 ||hundredthtvthorny.com^
@@ -40324,7 +40309,6 @@
 ||invitron.co.in^
 ||inviziads.com^
 ||invl.co^
-||invlazars.com^
 ||invoc.us^
 ||invoca.solutions^
 ||invocacdn.com^
@@ -41741,7 +41725,6 @@
 ||joinads.me^
 ||joincreditexpert.co.uk^
 ||joindetox.info^
-||joiningvaselet.com^
 ||joinmy.site^
 ||joinmysite.online^
 ||joinourwebsite.com^
@@ -46072,7 +46055,6 @@
 ||loopa.net.au^
 ||loopaautomate.com^
 ||loopcoders.com^
-||loopd.cyou^
 ||loopfuse.net^
 ||loopme.com^
 ||loopme.me^
@@ -52467,7 +52449,6 @@
 ||nigeriaatthepark.com^
 ||nigeriahornnews.com^
 ||nigerianscope.com^
-||nighedferren.com^
 ||nighedmend.live^
 ||nightchannels-wholesale.com^
 ||nighter.club^
@@ -57980,7 +57961,6 @@
 ||poisom.com^
 ||poisonencouragement.com^
 ||poisonoustrolleyenhance.com^
-||pojihfnkbllg.net^
 ||pojjtt.xyz^
 ||pojulo.com^
 ||pokaroad.net^
@@ -61151,7 +61131,6 @@
 ||ranbtechsub.com^
 ||rancangmebel.com^
 ||ranchauthorization.com^
-||ranchedhemin.com^
 ||ranchoaleman.cl^
 ||rancidstrait.com^
 ||rancleave.com^
@@ -62365,7 +62344,6 @@
 ||resizer.mantisadnetwork.com^
 ||resizerlooch.com^
 ||reslightho.top^
-||resnaphylodes.com^
 ||resnaulum.com^
 ||resniks.pro^
 ||resnikscdn.pro^
@@ -64786,7 +64764,6 @@
 ||sarmarketeers.com^
 ||sarov.ws^
 ||sarphold.com^
-||sarseniraqian.com^
 ||sartagesampi.com^
 ||sartolutus.com^
 ||sartoriz.fr^
@@ -64810,7 +64787,6 @@
 ||sasujooceerg.com^
 ||sasuke.s3.pl-waw.scw.cloud^
 ||sat.sanoma.fi^
-||satarabirl.com^
 ||satatech-eg.com^
 ||satdentperu.com^
 ||satdevoted.com^
@@ -65914,7 +65890,6 @@
 ||sephur.com^
 ||sepialogistic.com^
 ||sepmud.gob.bo^
-||septanepickles.com^
 ||septfd2em64eber.com^
 ||sepubl.com^
 ||sepyra.com^
@@ -70471,7 +70446,6 @@
 ||stonefieldbd.com^
 ||stonehedge.ie^
 ||stonesoftware.net^
-||stonkrolf.com^
 ||stonordersit.xyz^
 ||stonordersity.xyz^
 ||stonyedge.com^
@@ -71649,7 +71623,6 @@
 ||szalonepromocje.com^
 ||szasm8.com^
 ||szblcad.com^
-||szcmcs.com^
 ||szdzbx.com^
 ||szfr.fr^
 ||szhdhbz.com^
@@ -76762,7 +76735,6 @@
 ||twtad.com^
 ||twttr.com^
 ||twu-hwt.org^
-||twuipte.cn^
 ||twyn.com^
 ||twzui6.com^
 ||tx-ad.a.yximgs.com^
@@ -83966,7 +83938,6 @@
 ||zhangshen.club^
 ||zhangshiyuan.com^
 ||zhangwanwan.online^
-||zhangxiaoluo.xyz^
 ||zhctrack.net^
 ||zhdeluxeltd.com^
 ||zhej78i1an8w6ceu.com^
