@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-02 14:00:29
-! Total count: 85087
+! Version: 2023-04-02 20:00:24
+! Total count: 85070
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -1074,7 +1074,6 @@
 ||398375178.com^
 ||39bace7344.com^
 ||39dvd-999.com^
-||39ef72886f.com^
 ||39irqwnzlv.com^
 ||39jz.com^
 ||3a-realestate-eg.com^
@@ -2064,7 +2063,6 @@
 ||8644aaw.com^
 ||864feb57ruary.com^
 ||866e69bc8e.com^
-||867df8b139.com^
 ||86a7149f2c.com^
 ||86cb1dcb13ba5a1a.com^
 ||87193776899.com^
@@ -13809,7 +13807,6 @@
 ||bdm.ye-su.cn^
 ||bdmjs.xywy.com^
 ||bdnad1.bangornews.com^
-||bdnvklavbklabl.com^
 ||bdperformance.co.uk^
 ||bdpuaw.com^
 ||bdqjqfqyw.xyz^
@@ -17113,7 +17110,6 @@
 ||c8ae.portraits.studio-94-photography.com^
 ||c8ce.portraits.studio-94-photography.com^
 ||c8d.upde.cc^
-||c8d2c12c98.com^
 ||c9.statcounter.com^
 ||c98.llc^
 ||c993.westport-news.com^
@@ -29032,7 +29028,6 @@
 ||enrobeddhuti.space^
 ||enroes.com^
 ||ensban.com^
-||enscoinvestcoyllc.com^
 ||ensegypt.com^
 ||ensignpancreasrun.com^
 ||ensinamosaqui.com.br^
@@ -29124,7 +29119,6 @@
 ||eoopersed.one^
 ||eooperseducat.xyz^
 ||eooslfyhziubo.com^
-||eoqtyyp.cn^
 ||eoredi.com^
 ||eos-croatia.com^
 ||eosads.com^
@@ -32728,7 +32722,6 @@
 ||frey2.com^
 ||freychang.fun^
 ||freyr-clo.com^
-||freyrclogs.com^
 ||frge.io^
 ||frgeob.xyz^
 ||frhbrkjgerikm2f8mjek09.com^
@@ -39237,7 +39230,6 @@
 ||ihhcrm.com^
 ||ihhqwaurke.com^
 ||ihjtrncfoha.com^
-||ihlurin.cn^
 ||ihnkqmiyi.com^
 ||ihoabsop.xyz^
 ||ihoolrun.net^
@@ -43993,7 +43985,6 @@
 ||kths.online^
 ||ktkgpcstqooan.xyz^
 ||ktlepvyyoxydwi.com^
-||ktngywnklcxwdcs.com^
 ||ktobedirectu.autos^
 ||ktobedirectu.xyz^
 ||ktpmolooqpkjv.com^
@@ -58989,7 +58980,6 @@
 ||ppibeast.com^
 ||ppikhedas.com^
 ||ppkhosp.go.th^
-||pplferio.com^
 ||ppltxv.xyz^
 ||ppnhd.com^
 ||ppnnqsqx.com^
@@ -61105,7 +61095,6 @@
 ||qrroom.com^
 ||qrstes.com^
 ||qrvmgtmbdssq.com^
-||qrybpwqjgkeilh.com^
 ||qs.ioam.de^
 ||qsdr.mysunnylawn.com^
 ||qsearch-a.akamaihd.net^
@@ -72694,7 +72683,6 @@
 ||tamoioimoveis.com.br^
 ||tamperstationerycultivate.com^
 ||tamprc.com^
-||tamrhybjuvnafic.com^
 ||tams.outbrain.com^
 ||tamtam.pro^
 ||tan.pridnestrovie.com^
@@ -76758,7 +76746,6 @@
 ||tronicsites.com^
 ||troozescript.store^
 ||tropateiqs.life^
-||trophalwakikis.com^
 ||tropheesdiffusion.com^
 ||tropicalhomesofcostarica.com^
 ||tropicalos.com^
@@ -80539,7 +80526,6 @@
 ||waframedia8.com^
 ||wafum.ml^
 ||wafvertizing.crazygames.com^
-||wafxb.xyz^
 ||wagbinbad.club^
 ||wagecarriage.com^
 ||wagegapcomparison.com^
@@ -82262,7 +82248,6 @@
 ||workfromhomescavenger.com^
 ||workhovdi.com^
 ||working-online.net^
-||workingflense.website^
 ||workmanceremony.com^
 ||workon.ru^
 ||workoperation.com^
@@ -83405,7 +83390,6 @@
 ||xsafdsv.cn^
 ||xsell.6waves.com^
 ||xserve.zapurl.cc^
-||xsircguacqobavh.com^
 ||xsjc4smhbyjf.com^
 ||xsjh001.xyz^
 ||xsjh002.xyz^
@@ -84288,7 +84272,6 @@
 ||ywebcreation.com^
 ||ywg.jobui.com^
 ||ywhopagmyel.top^
-||ywkqmfyfgeyale.com^
 ||ywmc.com.tw^
 ||ywnvyimhtrxk.top^
 ||ywqpgy.com^
