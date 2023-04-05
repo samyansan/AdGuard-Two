@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-05 14:00:31
-! Total count: 85176
+! Version: 2023-04-05 20:08:39
+! Total count: 85169
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -501,7 +501,6 @@
 ||1hx60gjebbfr.com^
 ||1i8c0f11.de^
 ||1igare0jn.de^
-||1it.fit^
 ||1jahvsjdasd11.monster^
 ||1jhabsjdasd11.monster^
 ||1jsskipuf8sd.com^
@@ -10051,7 +10050,6 @@
 ||anzschoolneeds.com^
 ||anzu.io^
 ||ao-freegeoip.herokuapp.com^
-||aobiiphhctug.com^
 ||aofferzone.com^
 ||aohospitality.in^
 ||aol-match.dotomi.com^
@@ -40002,7 +40000,6 @@
 ||indotel.co.id^
 ||indpolice.com^
 ||indrani-therapy.com^
-||indrasbikaner.com^
 ||indtesa.com^
 ||induceresistbrotherinlaw.com^
 ||indufisa.es^
@@ -51573,7 +51570,6 @@
 ||myhappyemployee.org^
 ||myheartbuild.com^
 ||myhhjk.xyz^
-||myhisense.com^
 ||myhitbox.com^
 ||myholidayplans.in^
 ||myhomeworkslave.com^
@@ -51606,7 +51602,6 @@
 ||mylosshelters.com^
 ||mylovecards.com^
 ||mylovelypet.net^
-||mym-formation.fr^
 ||mymanai.com^
 ||mymatgar.com^
 ||mymcqexam.in^
@@ -56276,7 +56271,6 @@
 ||palimpsest.co.in^
 ||palizonline.ir^
 ||palladiumexim.com^
-||pallarsactiu.cat^
 ||pallavijunior.com^
 ||palletresourceplus.com^
 ||palmarspj.com^
@@ -57700,7 +57694,6 @@
 ||pianoassort.com^
 ||pianoplaymusic.com^
 ||piaososo.co^
-||piaozone.com^
 ||piarecdn.com^
 ||piaroankenyte.store^
 ||piasterpoleyns.com^
