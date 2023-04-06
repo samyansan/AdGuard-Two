@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-06 14:00:28
-! Total count: 85896
+! Version: 2023-04-06 20:01:01
+! Total count: 85890
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -3684,7 +3684,6 @@
 ||ad.huvle.com^
 ||ad.hyena.cz^
 ||ad.icheck.com.vn^
-||ad.ieurop.net^
 ||ad.iinfo.cz^
 ||ad.il.doubleclick.net^
 ||ad.iloveinterracial.com^
@@ -4432,7 +4431,6 @@
 ||adi.vcmedia.vn^
 ||adiba.pk^
 ||adical.de^
-||adicate.com^
 ||adiceltic.de^
 ||adidm.idmnet.pl^
 ||adigi.icu^
@@ -4939,7 +4937,6 @@
 ||adprosrv.com^
 ||adprotect.net^
 ||adprotected.com^
-||adprotraffic.com^
 ||adprovi.de^
 ||adproxy.tf1.fr^
 ||adpublisher.s3.amazonaws.com^
@@ -10913,6 +10910,7 @@
 ||aqpmzoomqab.com^
 ||aqpogwawr.com^
 ||aqsmm.com^
+||aqt.adalliance.io^
 ||aqtracker.com^
 ||aqua-adserver.com^
 ||aqua-viva.cl^
@@ -11645,7 +11643,6 @@
 ||aspservice.jp^
 ||aspsupermercados.com.br^
 ||aspsupport.hu^
-||asq.ezakus.net^
 ||asrani.garudaputih.com^
 ||asretarahisanaati.ir^
 ||asrety.com^
@@ -22790,7 +22787,6 @@
 ||cuddlethehyena.com^
 ||cudforhim.com^
 ||cudgelridge.com^
-||cudqrmcrfk.com^
 ||cue.v.fwmrm.net^
 ||cue4you.nl^
 ||cuebiq.com^
@@ -27583,7 +27579,6 @@
 ||dx.mountain.com^
 ||dx6uy6q3udhkj.cloudfront.net^
 ||dx7.sosporntube.com^
-||dxaempvs.xyz^
 ||dxbkaraoke.com^
 ||dxgo95ahe73e8.cloudfront.net^
 ||dxh2ivs16758.cloudfront.net^
@@ -31238,7 +31233,6 @@
 ||fbpopr.com^
 ||fbsecurity.co^
 ||fbtask.com^
-||fbtfddhhrsiapq.xyz^
 ||fbthirdpartypixel.com^
 ||fbtoolsmkt.info^
 ||fbuser.ovp.vn^
@@ -38170,7 +38164,6 @@
 ||holyrisen.com^
 ||homazingbysr.com^
 ||homchang.site^
-||home.edt02.net^
 ||home.foni.net^
 ||home.gelsennet.de^
 ||home.townisp.com^
@@ -44460,7 +44453,6 @@
 ||kuanzhan.biz^
 ||kubicekballoons.com.au^
 ||kubizma.com^
-||kucoa.xyz^
 ||kudrunoptime.com^
 ||kufhcyqryh.com^
 ||kughouft.net^
@@ -47767,6 +47759,7 @@
 ||mafifun.ir^
 ||mafitoys.com^
 ||mafjvuaiytrwol.com^
+||mafo.adalliance.io^
 ||mafobilconsulting.com^
 ||mafrarc3e9h.com^
 ||maftech-service.com^
@@ -76572,6 +76565,7 @@
 ||tracking-widget.fillr.com^
 ||tracking-xaxis.adsafety.net^
 ||tracking.adactioninteractive.com^
+||tracking.adalliance.io^
 ||tracking.adgoon.it^
 ||tracking.admarketplace.net.edgekey.net^
 ||tracking.ads.global-fashion-group.com^
