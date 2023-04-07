@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-07 20:00:40
-! Total count: 86346
+! Version: 2023-04-08 02:00:37
+! Total count: 86341
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -17073,7 +17073,6 @@
 ||bwsengineering.co.za^
 ||bwstatistics.sapoapps.vn^
 ||bwtsrv.com^
-||bwwrovgwdfe.xyz^
 ||bx.khedivaormond.com^
 ||bx5.tubemaximum.com^
 ||bx9000.top^
@@ -25479,7 +25478,6 @@
 ||deuror.com^
 ||deuxtrois.net^
 ||dev-as.cluep.com^
-||dev-hameed.space^
 ||dev-munna.com^
 ||dev-project-server.com^
 ||dev-senotrix.com^
@@ -25957,7 +25955,6 @@
 ||digytec.com^
 ||dihutyaiafuhr.cloudfront.net^
 ||diiodidasmear.com^
-||diiwxljhyh.xyz^
 ||dija-enterprises.com^
 ||dijapu.xyz^
 ||dikeletwhelk.cam^
@@ -33347,7 +33344,6 @@
 ||fstredirr.com^
 ||fstrk.net^
 ||fstsrv1.com^
-||fsxoajyg.com^
 ||fsyc.xyz^
 ||ft-ds.com^
 ||ft2.autonomycloud.com^
@@ -44196,7 +44192,6 @@
 ||kkdxnhyjx.xyz^
 ||kkggy.top^
 ||kkmacsqsbf.info^
-||kkmjiwydixqqnw.xyz^
 ||kkuocsorgz.com^
 ||kkuodlkfapuw.com^
 ||kkuuu.top^
@@ -61307,6 +61302,7 @@
 ||punmciarskt.com^
 ||punnettracked.website^
 ||punoocke.com^
+||punosy.best^
 ||punosy.com^
 ||punosy.top^
 ||puntaballena.com.do^
@@ -62845,7 +62841,6 @@
 ||rcm.shinobi.jp^
 ||rcmtip.com^
 ||rcn.asapp.com^
-||rcnapp.one^
 ||rcnauchi.com^
 ||rcom-eu.dynamicyield.com^
 ||rcom.dynamicyield.com^
