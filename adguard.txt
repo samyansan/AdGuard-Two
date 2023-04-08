@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-08 20:00:36
-! Total count: 86540
+! Version: 2023-04-09 02:00:34
+! Total count: 86535
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -2919,7 +2919,6 @@
 ||abjurecurfs.website^
 ||abkmsaharsa.co.in^
 ||abkoxlikbzs.com^
-||abkynrclyom.com^
 ||ablade.beauty^
 ||ablatesgascon.cam^
 ||ableaborah.com^
@@ -3153,7 +3152,6 @@
 ||acbbd.com^
 ||acbdmbhhmsfx.com^
 ||acbp0020171456.page.tl^
-||acbwsojecs.com^
 ||acc-hd.de^
 ||acc2.ats.lk^
 ||accaii.com^
@@ -3557,6 +3555,7 @@
 ||ad-sun.de^
 ||ad-tag.biz^
 ||ad-tech.com^
+||ad-thd-east.tagdelivery.com^
 ||ad-tool.com^
 ||ad-track.jp^
 ||ad-tracker-api.luizalabs.com^
@@ -19760,7 +19759,6 @@
 ||civistgroup.com^
 ||ciwhacheho.pro^
 ||cixaxuyu.xyz^
-||cixldfrkayl.com^
 ||cizion.com^
 ||cj-cy.com^
 ||cjbmanagement.com^
@@ -22940,7 +22938,6 @@
 ||cuckoo.minaexplorer.com^
 ||cuckoo.peoplefirstjobs.com^
 ||cuckooretire.com^
-||cucpjium.xyz^
 ||cuculf.name^
 ||cucumberabbotrecommended.com^
 ||cudalbapt.com^
@@ -37908,6 +37905,7 @@
 ||heymatic.com^
 ||heypressto.com^
 ||heystaks.com^
+||heytapdl.com^
 ||heytapmobile.com^
 ||heyu.team^
 ||heywire.com^
@@ -43033,7 +43031,6 @@
 ||jppyvylwbvcq.xyz^
 ||jpqgxy.com^
 ||jprolhmr.page.link^
-||jpshopes.com^
 ||jpujol.fr^
 ||jpush.cn^
 ||jpush.io^
@@ -47486,7 +47483,6 @@
 ||lq.nullusposolo.com^
 ||lqctqtal.xyz^
 ||lqdoxhvwiry.top^
-||lqgsluyxt.com^
 ||lqjewgpahxbeci.com^
 ||lqrsgxykaddurqp.com^
 ||lqrvkxk.cn^
@@ -79738,7 +79734,6 @@
 ||upxip.xyz^
 ||upyoursyouniversity.com^
 ||uqhrgynymyfu.top^
-||uqymady.cn^
 ||uqystk.com^
 ||uqz.com^
 ||ur.meteredrato.com^
