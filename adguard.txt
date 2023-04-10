@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-10 02:00:44
-! Total count: 86622
+! Version: 2023-04-10 08:24:51
+! Total count: 86594
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -4202,7 +4202,6 @@
 ||adcryp.to^
 ||adcycle.com^
 ||adcycle.footymad.net^
-||add-vetcare.com^
 ||add.f5haber.com^
 ||add.in.ua^
 ||add.newmedia.cz^
@@ -8152,7 +8151,6 @@
 ||alazharplast.com^
 ||albabfinancial.com.ng^
 ||albacomplett.hu^
-||albahloul.com^
 ||albamargroup.com^
 ||albandairy.com^
 ||albaneverard.com^
@@ -12658,7 +12656,6 @@
 ||awsurveys.com^
 ||awsxc.live^
 ||awsync.yandex.ru^
-||awt.co.id^
 ||awtks.com^
 ||awts.co.in^
 ||awvnhoa.com^
@@ -19646,7 +19643,6 @@
 ||cintoken.com^
 ||cinziamontesanti.it^
 ||cioco-froll.com^
-||cipavi.co^
 ||cipientco.com^
 ||cipledecline.buzz^
 ||cippa.com.br^
@@ -21849,7 +21845,6 @@
 ||corplexinternational.com^
 ||corpoaceros.mx^
 ||corpoatrato.com^
-||corpojuicebar.com^
 ||corpolevesuplementos.com.br^
 ||corporacionaroni.com^
 ||corporacionatiempo.com^
@@ -25503,7 +25498,6 @@
 ||detetivers.com.br^
 ||detetivetony.com.br^
 ||detfrix.com^
-||detierra.cl^
 ||detik.serving-sys.com^
 ||detikbanua.co.id^
 ||detikhot.news^
@@ -27411,7 +27405,6 @@
 ||drupta.com^
 ||drvenumadhav.com^
 ||drvivekkuhitemdmedicine.com^
-||drwebantivirus.net^
 ||drwornspinster.com^
 ||drxoipcm.page.link^
 ||drydrum.com^
@@ -32296,7 +32289,6 @@
 ||fjswywbtu.com^
 ||fjvixgxtspfui.xyz^
 ||fjvjuuobaqsqv.xyz^
-||fkadeal.com^
 ||fkbacka.com^
 ||fkblytfcmeqkty.xyz^
 ||fkbwtoopwg.com^
@@ -38481,7 +38473,6 @@
 ||homeoboi.com^
 ||homeofaccessories.com^
 ||homeofanswers.com^
-||homeofficenodigital.com^
 ||homeopatieveterinara.ro^
 ||homepageking.de^
 ||homepaintingmaintenance.com^
@@ -40097,7 +40088,6 @@
 ||imad24.com^
 ||imaelsolucoes.com.br^
 ||image-rentracks.com^
-||image-thaihometown.com^
 ||image.cauly.co.kr^
 ||image.click.livedoor.com^
 ||image.click2net.com^
@@ -43761,7 +43751,6 @@
 ||kbsaimmigration.com^
 ||kbtzxl.com^
 ||kbugxeslbjc8.com^
-||kc-egypt.com^
 ||kc.gouchezj.com^
 ||kca-bh.com^
 ||kccc.org.zm^
@@ -44642,7 +44631,6 @@
 ||koutobey.net^
 ||kovacstrade.hu^
 ||kovaimaruthi.com^
-||kovalekimoveis.com^
 ||kovla.com^
 ||kowasaki.com^
 ||koyamu.com^
@@ -45572,7 +45560,6 @@
 ||ldserv01.adtech.fr^
 ||ldserv02.adtech.fr^
 ||ldsfch.112.2o7.net^
-||ldsinternacional.com^
 ||ldthinkhimun.com^
 ||le-journal-de-france.fr^
 ||le-rosh.com^
@@ -50809,7 +50796,6 @@
 ||mlsys.xyz^
 ||mltoaurywsj.xyz^
 ||mlu.cl^
-||mlvirtual.org^
 ||mlweb.dmlab.hu^
 ||mlwsqosupiinhix.com^
 ||mlwsx6ygh.click^
@@ -52412,7 +52398,6 @@
 ||myhappyemployee.org^
 ||myheartbuild.com^
 ||myhhjk.xyz^
-||myhisense.com^
 ||myhitbox.com^
 ||myholidayplans.in^
 ||myhomeworkslave.com^
@@ -52891,7 +52876,6 @@
 ||naserrestaurant.ro^
 ||nashama-aseer.sa^
 ||nasimke.ru^
-||nasinternet.com^
 ||nasionallife.co.id^
 ||nasmtech.com^
 ||nasonex.1.p2l.info^
@@ -53251,7 +53235,6 @@
 ||neopanafricaniste.org^
 ||neopowerlab.com^
 ||neosap.ru^
-||neosystemspa.cl^
 ||neotechsols.com^
 ||neotime.eu^
 ||neoventus.cl^
@@ -55695,7 +55678,6 @@
 ||onclkds.com^
 ||onclklnd.com^
 ||oncomeannuals.com^
-||oncrete-egy.com^
 ||oncthgrc.page.link^
 ||oncustomer.asia^
 ||ondate.xyz^
@@ -58643,7 +58625,6 @@
 ||pianoassort.com^
 ||pianoplaymusic.com^
 ||piaososo.co^
-||piaozone.com^
 ||piarecdn.com^
 ||piaroankenyte.store^
 ||piasterpoleyns.com^
@@ -64225,7 +64206,6 @@
 ||revivechill.com^
 ||reviveservers.com^
 ||revivestar.com^
-||revivify.co.in^
 ||revlisentp.com^
 ||revmaps.io^
 ||revmasters.com^
@@ -64828,7 +64808,6 @@
 ||roitesting.com^
 ||roiughttohimhe.xyz^
 ||rojadirectatv.fr^
-||rojasconstrucciones.cl^
 ||rojkafhbnmo.com^
 ||rok.com.com^
 ||rokafeg.com^
@@ -70212,7 +70191,6 @@
 ||solution.weborama.fr^
 ||solution360-bd.com^
 ||solution911.com^
-||solutions-experts.net^
 ||solutions.marketo.com^
 ||solutions.playernetca.top^
 ||solutionscore.com^
@@ -71384,7 +71362,6 @@
 ||star-cntr-5.com^
 ||star-painter.com^
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
-||star-stream.com^
 ||starbez.com^
 ||starbuckssurvey.life^
 ||starcatalogs.com^
@@ -74014,7 +73991,6 @@
 ||tanidigital.com^
 ||taninfurniture.com^
 ||tanio-najtaniej.com^
-||tanishkenclave.in^
 ||tanit-adr.com^
 ||tanjilascollection.com^
 ||tankasphose.com^
@@ -75757,7 +75733,6 @@
 ||tieleshin.tw^
 ||tiemvangngoctham.com^
 ||tienda.museosdelbancocentral.org^
-||tiendapan.com^
 ||tiendasplatino.mx^
 ||tiendastokio.com^
 ||tiendaveinticuatro.cl^
@@ -76056,7 +76031,6 @@
 ||tl.tradetracker.net^
 ||tl2go.com^
 ||tl813.com^
-||tlabak.com^
 ||tlbadvisory.com.au^
 ||tlcskinpj4.xyz^
 ||tldtgs.com^
@@ -79202,7 +79176,6 @@
 ||ultimateclixx.com^
 ||ultimatecounter.com^
 ||ultimateessay.com^
-||ultimatescamrecovery.com^
 ||ultimateslab.co.za^
 ||ultimatetenderhelp.org^
 ||ultimatewaterfilterguide.com^
@@ -86150,7 +86123,6 @@
 ||zevoday.blogspot.com^
 ||zewkj.com^
 ||zewoagoo.com^
-||zexeq.com^
 ||zeyappland.com^
 ||zeydoo.com^
 ||zeydsapps.com^
