@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-12 02:00:43
-! Total count: 86930
+! Version: 2023-04-12 08:24:34
+! Total count: 86929
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -69330,7 +69330,6 @@
 ||sj-mknodepub.marketo.com^
 ||sj.ijinshan.com^
 ||sj88.com^
-||sjalipa.cn^
 ||sjarvis.taobao.com^
 ||sjb-tech.com^
 ||sjbaiduadv1.redou.com^
