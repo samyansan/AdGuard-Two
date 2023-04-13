@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-13 02:00:37
-! Total count: 87360
+! Version: 2023-04-13 08:23:13
+! Total count: 87321
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -3098,7 +3098,6 @@
 ||abusiveserving.com^
 ||abutabaneh.com^
 ||abuylike.com^
-||abvwyuaskikol.com^
 ||abwhyag.com^
 ||abwwxsemx.com^
 ||abyamaskor.com^
@@ -4544,7 +4543,6 @@
 ||adjector.com^
 ||adjesty.com^
 ||adjix.com^
-||adjmpfrbhed.com^
 ||adjmps.com^
 ||adjoincomprise.com^
 ||adjoiningfoolish.com^
@@ -10198,7 +10196,6 @@
 ||anzschoolneeds.com^
 ||anzu.io^
 ||ao-freegeoip.herokuapp.com^
-||aoalpvovpbajxtj.com^
 ||aofferzone.com^
 ||aohospitality.in^
 ||aol-match.dotomi.com^
@@ -11679,7 +11676,6 @@
 ||asiapacifichotelbd.com^
 ||asiasiyaka.com^
 ||asidegoswillingness.com^
-||asiepuqvs.com^
 ||asifiwoeryesterda.xyz^
 ||asiltda.com^
 ||asimindia.co.in^
@@ -12592,7 +12588,6 @@
 ||aviesanct.website^
 ||aviewrodlet.com^
 ||avikguha.com^
-||aviksqxgkdhjc.com^
 ||avilabrothers.com^
 ||avilagtitkai.com^
 ||avimant.com^
@@ -14050,7 +14045,6 @@
 ||bd742.com^
 ||bd888.qizuang.com^
 ||bda1.ayule.net^
-||bdanam.com^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||bdaquariumshop.com^
@@ -17287,7 +17281,6 @@
 ||bywhoshixo.com^
 ||byxdeoner.com^
 ||byyanmaor.com^
-||byyiuneryhfvvvx.com^
 ||byzgoso.ru^
 ||bz.waveoffcrakes.com^
 ||bz4xhomecharger.com^
@@ -18348,7 +18341,6 @@
 ||cbango.com.ar^
 ||cbanners.virtuagirlhd.com^
 ||cbaol.112.2o7.net^
-||cbbdmxiiceagddn.com^
 ||cbbvi.com^
 ||cbc.122.2o7.net^
 ||cbcca.112.2o7.net^
@@ -19933,7 +19925,6 @@
 ||ckies.net^
 ||ckjinteriors.co.uk^
 ||ckkc.cc^
-||ckmpojarw.com^
 ||ckohixbcyzm.com^
 ||ckrf1.com^
 ||cks.connatix.com^
@@ -21051,7 +21042,6 @@
 ||colegiojussaraferreira.com^
 ||colegiopietra.com.br^
 ||colegiosanandresosorno.cl^
-||coleurpeng.com^
 ||colextidapp.com^
 ||coliassfeurytheme.com^
 ||colins.rs^
@@ -21563,7 +21553,6 @@
 ||congresotarot.com.ar^
 ||congressaffrayghosts.com^
 ||congtykhoancatbetong.com^
-||conhmrmfeygig.xyz^
 ||coningweedery.store^
 ||conjectureprecedingslippers.com^
 ||conjeetinemen.life^
@@ -23164,7 +23153,6 @@
 ||cuminside.club^
 ||cumuda.com^
 ||cumydixy.com^
-||cunasdonat.com^
 ||cunderdr.net^
 ||cundumbagroom.com^
 ||cunhaassessoriajuridica.com.br^
@@ -26897,7 +26885,6 @@
 ||docvahiem.com^
 ||dodayobeitand.xyz^
 ||doddassagai.com^
-||doddpnomvvbf.com^
 ||dodgeart.com^
 ||dodian.site50.net^
 ||dodolive.cn^
@@ -28790,7 +28777,6 @@
 ||eduwonk.info^
 ||eduzzjy.com^
 ||edv-waldherr.at^
-||edvcqnp.cn^
 ||edverys.buzz^
 ||edvforeveretest.com^
 ||edvfwlacluo.com^
@@ -30006,7 +29992,6 @@
 ||ermin-oxj.info^
 ||ermitteedi.biz^
 ||erne.co^
-||ernesseitenean.com^
 ||ernestindeedtradition.com^
 ||erniphiq.com^
 ||ernoddenkn.pics^
@@ -33542,7 +33527,6 @@
 ||freyrclogs.com^
 ||frge.io^
 ||frgeob.xyz^
-||frgkexqgr.xyz^
 ||frhbrkjgerikm2f8mjek09.com^
 ||fri4esianewheywr90itrage.com^
 ||friarsspiffy.com^
@@ -34373,7 +34357,6 @@
 ||gaug.es^
 ||gaulshiite.life^
 ||gauntletjanitorjail.com^
-||gaupingjaguar.com^
 ||gaupremob.cf^
 ||gauqeo.xyz^
 ||gauravbhatti.in^
@@ -37979,7 +37962,6 @@
 ||helic3oniusrcharithonia.com^
 ||helicopterbookingonline.in^
 ||helicopterskull.com^
-||helid.xyz^
 ||heligh.com^
 ||helioflex.com.tn^
 ||hellburg.cl^
@@ -38379,7 +38361,6 @@
 ||hikvar.ru^
 ||hikvision.market^
 ||hilacril.com^
-||hilariohendges.com.br^
 ||hilarioussewingartsy.com^
 ||hilariouszinc.com^
 ||hilburncolleges.lk^
@@ -43119,7 +43100,6 @@
 ||jlxsgk.com^
 ||jly24aw29n5m-a.akamaihd.net^
 ||jlzbnl.com^
-||jlzz.name^
 ||jmbanheiras.com.br^
 ||jmcmedical.com.br^
 ||jmdistribuicao.com.br^
@@ -46954,7 +46934,6 @@
 ||liveuniversenetwork.com^
 ||liveupdt.com^
 ||liveviewer.ez.no^
-||livewatch.online^
 ||livewatchev.com^
 ||livewebstats.dk^
 ||livewell.net^
@@ -47693,7 +47672,6 @@
 ||lookerescaperoom.com.br^
 ||lookery.com^
 ||lookfornews.net^
-||lookinews.com^
 ||lookit.cz^
 ||lookmy.info^
 ||lookoutboccies.com^
@@ -53872,7 +53850,6 @@
 ||networkcoursemedia.com^
 ||networkinfo.org^
 ||networkmanag.com^
-||networkname.xyz^
 ||networkplay.in^
 ||networksdk.ssacdn.com^
 ||networkstore.id^
@@ -55194,7 +55171,6 @@
 ||nv.5.p2l.info^
 ||nv6m.com^
 ||nvawqvek.xyz^
-||nvchmkw.cn^
 ||nvdevinas.com^
 ||nventures.co.in^
 ||nversitymi.com^
@@ -58265,7 +58241,6 @@
 ||pbcde.com^
 ||pbgcsk3.com^
 ||pbgrd.com^
-||pbgtpjz.cn^
 ||pbharatnews.com^
 ||pbid.iforex.com^
 ||pbjcdypkbmcmrc.xyz^
@@ -62567,7 +62542,6 @@
 ||qiklsv.com^
 ||qilashou.com^
 ||qimmat-alarrab.com^
-||qingdou.ltd^
 ||qinger.name^
 ||qingfengxq.com^
 ||qingjiedi.com^
@@ -64029,7 +64003,6 @@
 ||referrer.org^
 ||referrer.website^
 ||referrill.com^
-||reffnik.cn^
 ||refilmsreeper.website^
 ||refinance.shengen.ru^
 ||refinedads.com^
@@ -64257,7 +64230,6 @@
 ||releasedgrievedeye.com^
 ||releasedverge.com^
 ||releinemaoff.pro^
-||releivovires.com^
 ||relentfrance.com^
 ||relentlessbelt.com^
 ||relentlessessential.com^
@@ -66308,7 +66280,6 @@
 ||ryntmyhahy.com^
 ||ryon.co.in^
 ||ryoucraft.top^
-||ryrpksmidqcvx.xyz^
 ||ryse.com.mx^
 ||rysheatlengthani.com.ua^
 ||rysheatlengthanl.xyz^
@@ -67413,7 +67384,6 @@
 ||schoorsteen.geenstijl.nl^
 ||schoutenkartoplan.com^
 ||schrainer.lu^
-||schullemony.com^
 ||schultzseguros.com.br^
 ||schumacher.adtech.fr^
 ||schvab.si^
@@ -70852,7 +70822,6 @@
 ||somalitranslationservices.com^
 ||somanypromocodes.com^
 ||somautomotivorj.com.br^
-||somberalcyon.com^
 ||somberattack.com^
 ||somberscarecrow.com^
 ||sombersea.com^
@@ -75181,7 +75150,6 @@
 ||teeek.com^
 ||teefuthe.com^
 ||teeglimu.com^
-||teemgreen.online^
 ||teemingaymoro.com^
 ||teemooge.net^
 ||teengirltgp.com^
@@ -78792,7 +78760,6 @@
 ||troncomelets.com^
 ||trongleotop.com^
 ||tronicsites.com^
-||troolyhonks.com^
 ||troozescript.store^
 ||tropateiqs.life^
 ||tropheesdiffusion.com^
@@ -81286,7 +81253,6 @@
 ||veih8bee.xhcdn.com^
 ||veille-referencement.com^
 ||veilsuccessfully.com^
-||veinletunapart.com^
 ||veinnotionmariner.com^
 ||veinourd.buzz^
 ||veinteractive.com^
@@ -82194,7 +82160,6 @@
 ||vlyby.com^
 ||vm5apis.com^
 ||vmap.v.ad-generation.jp^
-||vmarin.site^
 ||vmay.com^
 ||vmca.ro^
 ||vmcor.com^
@@ -82788,7 +82753,6 @@
 ||wangfenxi.com^
 ||wangmeng.baidu.com^
 ||wangqing7.top^
-||wangyq.ltd^
 ||wanjul.com^
 ||wanmolamchoor.store^
 ||wanna069kiss.dating^
@@ -85600,7 +85564,6 @@
 ||xporontube.tripod.com^
 ||xposureworks.com^
 ||xpressdndsms.com^
-||xpressionsmcr.store^
 ||xpromo.g5e.com^
 ||xpst0kx.cn^
 ||xpuqrn.com^
@@ -86128,7 +86091,6 @@
 ||yinzantouzi.com^
 ||yiopse.com^
 ||yipughtvvdkfk.top^
-||yisangyyds.com^
 ||yisd.press^
 ||yishengad.com^
 ||yitai001.com^
@@ -86949,7 +86911,6 @@
 ||zhongfujiaoyu.cn^
 ||zhonghuachuanmeikeji.cn^
 ||zhonglitz.cn^
-||zhouduanyyds.com^
 ||zhough.com^
 ||zhoumo.site^
 ||zhouxingyu.xyz^
