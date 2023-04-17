@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-17 20:00:40
-! Total count: 87222
+! Version: 2023-04-18 02:00:48
+! Total count: 87193
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -1800,7 +1800,6 @@
 ||6hgsvdghfsd66s.monster^
 ||6hgvaghsvd16.monster^
 ||6hqvgdqw66.monster^
-||6hsbdjff6.monster^
 ||6hsjvdhjfsdf6.monster^
 ||6huu.com^
 ||6hvhjsdww6.monster^
@@ -6625,7 +6624,6 @@
 ||adv.hwupgrade.it^
 ||adv.lampsplus.com^
 ||adv.livedoor.com^
-||adv.mmnon.com^
 ||adv.mxmcdn.net^
 ||adv.nexthardware.com^
 ||adv.pilseta24.lv^
@@ -8455,7 +8453,6 @@
 ||aljassarengineering.com^
 ||aljewargroup.com^
 ||aljradatvehicles.co.uk^
-||aljyiqva.xyz^
 ||alkahfquraninstitute.com^
 ||alkalinewaterionizer.co.in^
 ||alkanaria-uae.com^
@@ -10045,7 +10042,6 @@
 ||anotherparty.net^
 ||anouslab.cmail20.com^
 ||anpjcoapgd.com^
-||anpklfny.com^
 ||anpnipbfaxr.com^
 ||anqpq.cn^
 ||anquan.org^
@@ -12347,7 +12343,6 @@
 ||august15download.com^
 ||augusticky.com^
 ||augustynbaran.pl^
-||auhuqcyddwrdib.xyz^
 ||aujaradatasub.com.ng^
 ||aujooxoo.com^
 ||aujxjunasp.com^
@@ -13888,7 +13883,6 @@
 ||batborsen.no^
 ||batbricks7.com^
 ||batbuilding.com^
-||batcat.shop^
 ||batchcousin.com^
 ||batcherg.com^
 ||batchlogging4-eu.truecaller.com^
@@ -16911,7 +16905,6 @@
 ||bufferwriter.com^
 ||buffetegypt.com^
 ||bufoll.com^
-||bufpieyk.com^
 ||bug.aestheticpixels.io^
 ||bug.onlinedating.de^
 ||bugaga.tut.by^
@@ -18452,7 +18445,6 @@
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||ccforteza.com^
 ||ccgateway.net^
-||ccgbrstbuhl.xyz^
 ||ccit.jis.edu.ps^
 ||ccjzuavqrh.com^
 ||cck168.com.tw^
@@ -23076,7 +23068,6 @@
 ||ctdsecurity.com^
 ||ctel.com.my^
 ||ctengine.io^
-||ctflqomjystd.com^
 ||ctgbulletin24.com^
 ||ctiavxtakmw.com^
 ||ctibank.com^
@@ -23341,7 +23332,6 @@
 ||cwchgtwy.page.link^
 ||cwchmb.com^
 ||cwcoin.io^
-||cwejnszakvvvu.com^
 ||cwepagtwlff.top^
 ||cwhdcwtps.xyz^
 ||cwhsmgs1.cn^
@@ -23465,7 +23455,6 @@
 ||cytoclause.com^
 ||cytogene.co.in^
 ||cytopharma-cdmo.com^
-||cyuexerncokifav.xyz^
 ||cyxynjlfarcb.top^
 ||cz09.com^
 ||czarhonoraryrunning.com^
@@ -26804,7 +26793,6 @@
 ||dmm-video.online^
 ||dmm.aizhan.com^
 ||dmmzkfd82wayn.cloudfront.net^
-||dmnjngwq.com^
 ||dmnprx.com^
 ||dmoitry.com^
 ||dmp.adform.net^
@@ -28011,7 +27999,6 @@
 ||dworkshoppk.com^
 ||dwp3ce9c.top^
 ||dwr3zytn850g.cloudfront.net^
-||dwrbbkujtnyf.xyz^
 ||dwwyy.top^
 ||dwx1guhcvx8gs.cloudfront.net^
 ||dx.mountain.com^
@@ -31912,7 +31899,6 @@
 ||femefaih.com^
 ||femin.online^
 ||femindexkilog.xyz^
-||femjswcf.xyz^
 ||fenacheaverage.com^
 ||fenaglebecuna.guru^
 ||fencegostar.com^
@@ -35297,7 +35283,6 @@
 ||gjinfotech.in^
 ||gjinfotech.net^
 ||gjjrfldn.page.link^
-||gjjvkmngeo.com^
 ||gjonfartyb.com^
 ||gjslm.com^
 ||gjtrack.uc.cn^
@@ -35606,7 +35591,6 @@
 ||glumdrawer.com^
 ||glumtitu.net^
 ||glumtoglad.com^
-||glunkdvm.xyz^
 ||gluondockize.digital^
 ||glurdoat.com^
 ||glutenfreewendy.com^
@@ -35657,7 +35641,6 @@
 ||gnar.grammarly.com^
 ||gnarlgp.com^
 ||gnatgrocery.com^
-||gnbekvxyfuoyr.com^
 ||gnc.edu.sd^
 ||gncamoga.com^
 ||gncpartagas.com^
@@ -40130,7 +40113,6 @@
 ||ifaith.app^
 ||ifastexpress.biz^
 ||ifaupsoo.com^
-||ifbfebojg.xyz^
 ||ifce.kz^
 ||ifdmuggdky.com^
 ||ifdyifowri.com^
@@ -42795,7 +42777,6 @@
 ||jeehathu.com^
 ||jeejeetauz.com^
 ||jeejujou.net^
-||jeelunpfyq.xyz^
 ||jeeng.com^
 ||jeepsaut.com^
 ||jeerinfluencemedical.com^
@@ -43042,7 +43023,6 @@
 ||jixiby.cn^
 ||jixie.io^
 ||jiyan.net^
-||jiyfhqhrjaklwq.xyz^
 ||jizy.cn^
 ||jizzarchives.com^
 ||jizzensirrah.com^
@@ -43417,7 +43397,6 @@
 ||jrs2igoimq.ru^
 ||jrsa.net^
 ||jrsjunkcars.com^
-||jrtvxcecw.xyz^
 ||js-ad.a.yximgs.com^
 ||js-cdn.dynatrace.com^
 ||js-eu1.hs-scripts.com^
@@ -52111,7 +52090,6 @@
 ||mpnrs.com^
 ||mpower2u.com^
 ||mpp.se^
-||mppegwckbtp.com^
 ||mppmnetwork.com^
 ||mpprodutos.com.br^
 ||mpression.net^
@@ -58209,7 +58187,6 @@
 ||pbox.photobox.de^
 ||pbozsub.com^
 ||pbpdisbunkaltim.com^
-||pbqfawtp.com^
 ||pbreal.net^
 ||pbs-eu.getpublica.com^
 ||pbs.getpublica.com^
@@ -62530,7 +62507,6 @@
 ||qlp.ae^
 ||qlssbq.cn^
 ||qludshfqlioxi.top^
-||qlvlaqcd.com^
 ||qm-system.com^
 ||qmihajdixr.com^
 ||qmkr7isp3o.com^
@@ -63512,7 +63488,6 @@
 ||rdsb2.club^
 ||rdsddand.com^
 ||rdsmod.cc^
-||rdthoavhkybqo.xyz^
 ||rdtk.io^
 ||rdtrck2.com^
 ||rdudxejbyxxcb.com^
@@ -68808,7 +68783,6 @@
 ||ship2ja.com^
 ||shipminttracking.net^
 ||shipostrich.com^
-||shippertech.shop^
 ||shipping-sinaha.com^
 ||shipping.925cz.com^
 ||shippinginsights.com^
@@ -74086,7 +74060,6 @@
 ||sytcyf.com^
 ||sytsr.com^
 ||sytxao.com^
-||syvlingnewsb.xyz^
 ||sywsoluciones.com^
 ||syxcwxur.com^
 ||syybmy.cn^
@@ -77325,7 +77298,6 @@
 ||tqbnb8c2f.cfd^
 ||tqeobp89axcn.com^
 ||tqmibkqlwqdysi.com^
-||tqrvftsbdagk.xyz^
 ||tqvumumbs.top^
 ||tr-domaincfg.vivoglobal.com^
 ||tr-op.datatrics.com^
@@ -85858,7 +85830,6 @@
 ||yeegsxcwbnn.com^
 ||yeetsalear.com^
 ||yeichner.com^
-||yekiinbd.xyz^
 ||yektamehr.com^
 ||yektanet.com^
 ||yeliam.com^
