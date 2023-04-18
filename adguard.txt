@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-18 20:00:38
-! Total count: 87422
+! Version: 2023-04-19 02:00:39
+! Total count: 87401
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -1932,7 +1932,6 @@
 ||7f077.v.fwmrm.net^
 ||7f3adt.com^
 ||7fb60feaa4.com^
-||7ff83b4a34.com^
 ||7figuretribe.com.ng^
 ||7fkm2r4pzi.com^
 ||7frenchweb.fr^
@@ -2006,7 +2005,6 @@
 ||7xc4n.com^
 ||7xi9g1.com1.z0.glb.clouddn.com^
 ||7xsf3h.com1.z0.glb.clouddn.com^
-||7xwx.cn^
 ||7y7.us^
 ||7zip.fr^
 ||7zonedesigns.com^
@@ -2196,7 +2194,6 @@
 ||96a8b5ac22.com^
 ||96mob.com^
 ||96n5r5va.top^
-||9738624519.com^
 ||97418.diary.lojjh.com^
 ||978ea72276.com^
 ||9799.info^
@@ -11042,7 +11039,6 @@
 ||aqmgnoik.com^
 ||aqpmzoomqab.com^
 ||aqpogwawr.com^
-||aqpvglv.cn^
 ||aqsmm.com^
 ||aqtracker.com^
 ||aqua-adserver.com^
@@ -16774,7 +16770,6 @@
 ||brt.studylabs.cn^
 ||brtsumthree.com^
 ||brtv.xyz^
-||brty-handsome.click^
 ||bruantech.ng^
 ||bruark.com^
 ||brucelead.com^
@@ -18478,7 +18473,6 @@
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||ccforteza.com^
 ||ccgateway.net^
-||ccijsamwqurnde.com^
 ||ccit.jis.edu.ps^
 ||ccjzuavqrh.com^
 ||cck168.com.tw^
@@ -25072,7 +25066,6 @@
 ||ddfnmo6ev4fd.cloudfront.net^
 ||ddhjxakewpp.com^
 ||ddhtek.com^
-||ddkep.xyz^
 ||ddl8.data.hu^
 ||ddla593ymz72o.cloudfront.net^
 ||ddlakava.ac.ug^
@@ -37482,7 +37475,6 @@
 ||hangoverineffectivecorners.com^
 ||hangoverrapidlygreat.com^
 ||hangtotchinhhang.com^
-||hangtuo.pub^
 ||hanika-inc.com^
 ||hanimoon.ir^
 ||hannafoldy.hu^
@@ -39617,7 +39609,6 @@
 ||hwuzrko.cn^
 ||hwyoveuccs.top^
 ||hx1.tubepornbase.com^
-||hxes.cn^
 ||hxfjbdgjscufctm.xyz^
 ||hxhanime.com^
 ||hxiak.com^
@@ -42392,7 +42383,6 @@
 ||itzekromom.com^
 ||iucobwkeyai.com^
 ||iuerxw.xyz^
-||iughyy7919.com^
 ||iulftx.com^
 ||iunicsonline.com^
 ||iuou.myadobe.cn^
@@ -51661,7 +51651,6 @@
 ||moedgapers.com^
 ||moelamkbxx.xyz^
 ||moenatshin.com^
-||moend.xyz^
 ||moengagewebsdk.imgix.net^
 ||moesspringfield.com^
 ||moevideo.biz^
@@ -52274,7 +52263,6 @@
 ||mrmmermer.com^
 ||mrmochishoerepairs.com^
 ||mrn.ps^
-||mrodwohumuomhm.com^
 ||mrojhaphotography.com^
 ||mrpdata.net^
 ||mrporter-creative.prf.hn^
@@ -54985,7 +54973,6 @@
 ||nposition.club^
 ||nppmwatch.com^
 ||npqatrfmkevpxs.com^
-||npqmaekkg.com^
 ||npracticalwhic.buzz^
 ||nprlogistica.com.br^
 ||nprove.com^
@@ -55994,6 +55981,7 @@
 ||okrkinqgivuvwv.top^
 ||oksep.vn^
 ||okshuwu.top^
+||oksrv.com^
 ||okt5mpi4u570pygje5v9zy.com^
 ||oktogar.com^
 ||oktopost.com^
@@ -56538,7 +56526,6 @@
 ||opelop.com^
 ||open-up.it^
 ||open.isnssdk.com^
-||open.oksrv.com^
 ||open.oneplus.net^
 ||open.phone.igexin.com^
 ||openad.tf1.fr^
@@ -58522,7 +58509,6 @@
 ||peiceline.com^
 ||peircing-street.fr^
 ||peirs5tbakchios.com^
-||peishuning1.cn^
 ||pejqoq4cafo3bg9yqqqtk5e6s6.com^
 ||pejrq.xyz^
 ||pejzeexukxo.com^
@@ -62970,7 +62956,6 @@
 ||qumagee.com^
 ||quocbaotech.vn^
 ||quocdatfurniture.com^
-||quodartily.com^
 ||quoisy.com^
 ||quokka.bulkbuyhosting.com^
 ||quokka.joshuawood.net^
@@ -62991,7 +62976,6 @@
 ||quranservicesonline.com^
 ||quranteachingacademy.com^
 ||quseynoff.com^
-||qv.snaprosery.com^
 ||qvkjkc.xyz^
 ||qvol.tv^
 ||qvvoom.com^
@@ -66031,7 +66015,6 @@
 ||rtc.dymatrix.cloud^
 ||rtclx.com^
 ||rtcode.com^
-||rtdxqq.com^
 ||rtern.top^
 ||rtfarmbuildings.co.uk^
 ||rthlbert.com^
@@ -69862,7 +69845,6 @@
 ||skppshansi.com^
 ||sks.com.pk^
 ||sksupermarchedrc.com^
-||skt-asum.com^
 ||sktcoop.org^
 ||skttech.website^
 ||skuasnudish.com^
@@ -70509,6 +70491,7 @@
 ||snapmobile.asia^
 ||snappedanticipation.com^
 ||snappedimpressive.com^
+||snaprosery.com^
 ||snaps.vidiemi.com^
 ||snaptikt.com^
 ||snaptrade.co.in^
@@ -74924,7 +74907,6 @@
 ||taumeln.com^
 ||taurinkimonos.uno^
 ||tauruspartners.net^
-||tautqnuxgjraavl.com^
 ||tauvoojo.net^
 ||tauwoumo.net^
 ||tavacudetoate.ro^
@@ -79456,7 +79438,6 @@
 ||tvgvlpnpetxysl.com^
 ||tvi.do^
 ||tvishi.com^
-||tvlicebbc.tel^
 ||tvmagistv.com^
 ||tvmetropolecanal16.com.br^
 ||tvmkenya.org^
@@ -83670,7 +83651,6 @@
 ||wfsfunds.com^
 ||wfuipqowa.com^
 ||wfuxwegisqhe.com^
-||wfvmgfid.com^
 ||wfyovpolha.com^
 ||wfyqc.com^
 ||wg-aff.com^
@@ -87277,7 +87257,6 @@
 ||zrlcr.com^
 ||zrvnhlwypqpwjw.com^
 ||zs.dhl.de^
-||zsblog.vip^
 ||zsbwoqpcxj.com^
 ||zscwdu.com^
 ||zsinek.com^
