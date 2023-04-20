@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-20 20:00:58
-! Total count: 88034
+! Version: 2023-04-21 02:00:42
+! Total count: 88030
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -25914,7 +25914,6 @@
 ||desolatewreck.com^
 ||desoracks.com.mx^
 ||desorbslouvres.space^
-||desorbtarrify.com^
 ||despachovergara.com^
 ||desperationembassy.com^
 ||despicablereporthusband.com^
@@ -31568,7 +31567,6 @@
 ||facadesolutions.org^
 ||facai383.oss-cn-guangzhou.aliyuncs.com^
 ||facaltow.net^
-||facankaphfqjap.com^
 ||facbalancas.com.br^
 ||facebook-proxy.hi5.com^
 ||facebook-repto1040s2.ahlamountada.com^
@@ -59665,7 +59663,6 @@
 ||pianoalter.xyz^
 ||pianoassort.com^
 ||pianoplaymusic.com^
-||piaochong.co^
 ||piaososo.co^
 ||piaozone.com^
 ||piarecdn.com^
@@ -85818,7 +85815,6 @@
 ||xiangwangdesh.com^
 ||xianxhwy.com^
 ||xianzhice.com^
-||xiaochen1.cn^
 ||xiaodongrui.com^
 ||xiaomaxitong.co^
 ||xiaomihue.com^
