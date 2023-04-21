@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-21 20:07:44
-! Total count: 88495
+! Version: 2023-04-22 02:00:32
+! Total count: 88492
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -17354,7 +17354,6 @@
 ||button-follow.zalo.me^
 ||button-share.zalo.me^
 ||buttons-config.sharethis.com^
-||buvcjyegkbd.com^
 ||bux1le001.com^
 ||buxept.com^
 ||buxflow.com^
@@ -56411,7 +56410,6 @@
 ||ocubafyv.xyz^
 ||ocumes.com^
 ||ocwagmlizb.com^
-||ocxsqrbstxtd.com^
 ||ocxve.xyz^
 ||oczkgx.com^
 ||oda.co.zw^
@@ -63757,7 +63755,6 @@
 ||quigo.com^
 ||quik-serv.com^
 ||quikcarestore.com^
-||quikgzfisiodk.com^
 ||quilee.pw^
 ||quilescornual.uno^
 ||quillion.com^
