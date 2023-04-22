@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-22 20:00:52
-! Total count: 88761
+! Version: 2023-04-23 02:00:47
+! Total count: 88759
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -54766,7 +54766,6 @@
 ||netszex.com^
 ||nettat.ir^
 ||netteria.net^
-||nettlyphosis.com^
 ||nettonics.co.nz^
 ||nettoyages-vacances.fr^
 ||nettube.top^
@@ -60985,7 +60984,6 @@
 ||podramacast.com^
 ||podsolnu9hi10.com^
 ||podtiaumteen.space^
-||podunksewless.com^
 ||podzemi.myotis.info^
 ||poe.my.id^
 ||poembetray.com^
