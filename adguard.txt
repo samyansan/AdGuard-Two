@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-22 14:00:18
-! Total count: 88778
+! Version: 2023-04-22 20:00:52
+! Total count: 88761
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -67,7 +67,6 @@
 ||0676el9lskux.top^
 ||06f5751cb2.com^
 ||07634.com^
-||0776.red^
 ||07wr439dfait.top^
 ||080644.com^
 ||0816bvh.ru^
@@ -1149,7 +1148,6 @@
 ||3dua.info^
 ||3dviolet.com^
 ||3dyasam.net^
-||3e090c38bd.com^
 ||3ez1ja1uq3.ru^
 ||3ezkycdrsdov.top^
 ||3fakaixi.xyz^
@@ -2349,7 +2347,6 @@
 ||9tumza4dp4o9.com^
 ||9utwbj08.top^
 ||9v58v.com^
-||9vs0.cn^
 ||9vzzijbj5f.com^
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
 ||9xeqynu3gt7c.com^
@@ -11112,7 +11109,6 @@
 ||aprendumcr.com^
 ||apricotaimless.com^
 ||aprilineffective.com^
-||aprlitj.cn^
 ||apro-agr.org^
 ||aprod.scopely.io^
 ||apromoweb.com^
@@ -13288,7 +13284,6 @@
 ||bablace.com^
 ||bablogon.net^
 ||babm.in^
-||babockjames.com^
 ||babolmorad.ir^
 ||babooblack.com^
 ||baboon.vacanti.com^
@@ -14854,7 +14849,6 @@
 ||berds.org.pk^
 ||berfomoclinic.com^
 ||berg-6-82.com^
-||bergallgenion.com^
 ||bergenforbusiness.com^
 ||bergfi.com^
 ||berghaincervejaria.com.br^
@@ -31057,7 +31051,6 @@
 ||evcardz.com^
 ||evcharger-locations.com^
 ||evcknbym.com^
-||evdfhnicwckijj.com^
 ||eveilmedia.net^
 ||evemasoil.com^
 ||evenffext.com^
@@ -34908,7 +34901,6 @@
 ||ganpathymanpower.com^
 ||ganpaticonsultancy.in^
 ||ganyiedosage.website^
-||gaokao.asia^
 ||gapegape.co.za^
 ||gapscult.com^
 ||gapsolution.com.pk^
@@ -40980,7 +40972,6 @@
 ||iicfipstore.com^
 ||iicsxxkdcy.com^
 ||iidfxj.com^
-||iidjo.xyz^
 ||iifvcfwiqi.com^
 ||iigmlx.com^
 ||iigushi.com^
@@ -51561,7 +51552,6 @@
 ||mhlnk.com^
 ||mhmeshop.com^
 ||mhmlawgroup.com^
-||mhnlpltjts.com^
 ||mhp-consult.com^
 ||mhrcmw.org^
 ||mhrmpcoop.com.ph^
@@ -54473,7 +54463,6 @@
 ||ncuwtufam.com^
 ||ncx2.voyage-prive.it^
 ||ncyetdmvhwvxih.top^
-||ncyx.ltd^
 ||nd.5.p2l.info^
 ||ndabaseprinting.co.za^
 ||ndamisproservices.com^
@@ -64401,7 +64390,6 @@
 ||ranke.link^
 ||rankerslogin.com^
 ||rankertorten.com^
-||rankestmowers.com^
 ||ranking-charts.de^
 ||ranking-counter.de^
 ||ranking-hits.de^
@@ -69247,7 +69235,6 @@
 ||semanggiempat.com^
 ||semanticverses.com^
 ||semantiqo.com^
-||semaobf1.com^
 ||semarewwdw7.cfd^
 ||semasio.net^
 ||sembalunlawang.id^
@@ -80921,7 +80908,6 @@
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||u8.hujiang.com^
 ||u808i.com^
-||u833ij.com^
 ||u8hdqyug.co^
 ||u927.sfgate.com^
 ||u9369287208.iransofttools.ir^
@@ -81269,7 +81255,6 @@
 ||umbel.com^
 ||umbltd.com^
 ||umbrellacorps.pt^
-||umcpebi.cn^
 ||umediacreations.lk^
 ||umedic.net^
 ||umekana.ru^
@@ -85467,7 +85452,6 @@
 ||wingsfordreams.org^
 ||wingstrade.in^
 ||wingswormsandwonder.com^
-||winiermarrier.com^
 ||winkora.de^
 ||winlottofrequently.com^
 ||winmantravels.com^
@@ -88344,7 +88328,6 @@
 ||zhej78i1an8w6ceu.com^
 ||zhejiangscience.com^
 ||zhekoudajie.com^
-||zhemu.xyz^
 ||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^
 ||zhenxingkuangchanpin.com^
 ||zhhgmh.mobi^
