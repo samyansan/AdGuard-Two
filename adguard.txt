@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-23 20:00:27
-! Total count: 88816
+! Version: 2023-04-24 02:00:21
+! Total count: 88802
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -1639,7 +1639,6 @@
 ||6165.rapidforum.com^
 ||61739011039d41a.com^
 ||6196109405896.hostingkunde.de^
-||61ba68472f.com^
 ||620c663bca9a4.com^
 ||625c9289e60793.com^
 ||627sf.cn^
@@ -9287,7 +9286,6 @@
 ||amritsarsewasamiti.com^
 ||amrpl.in^
 ||amrtbbnr.com^
-||amryqmm.cn^
 ||ams-ae.conversantmedia.com^
 ||ams-insurance.net^
 ||ams-pageview-public.s3.amazonaws.com^
@@ -15703,7 +15701,6 @@
 ||bjzcbx.com^
 ||bk.clinkedsphecid.com^
 ||bk.goodline.info^
-||bkae.top^
 ||bkbhejseov.com^
 ||bkembwdgujzp.com^
 ||bkjhqkohal.com^
@@ -28260,7 +28257,6 @@
 ||dtjhtp.xyz^
 ||dtjournal.ac.in^
 ||dtmm9h2satghl.cloudfront.net^
-||dtnhjzl.xyz^
 ||dtoo1.space^
 ||dtoottuleringv.com.ua^
 ||dtoottuleringwe.xyz^
@@ -28688,7 +28684,6 @@
 ||e4healthgroup.com^
 ||e4nglis56hcoo5nhou6nd.com^
 ||e5asyhilodice.com^
-||e5bb7a50f5.com^
 ||e6243.fate.truelance.com^
 ||e66gg.com^
 ||e67repidwnfu7gcha.com^
@@ -45564,7 +45559,6 @@
 ||kmindex.ru^
 ||kmisln.com^
 ||kmkaccounting.com^
-||kmlxlkz.cn^
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
 ||kmmsfoqbhc.xyz^
 ||kmnh6tg43ed.click^
@@ -71539,7 +71533,6 @@
 ||smknbancak.my.id^
 ||smknspplampung.sch.id^
 ||smknurulhudapanumbangan.sch.id^
-||smlmupi.cn^
 ||smmahdi.com^
 ||smmahmud.xyz^
 ||smmarketing-eg.com^
@@ -71553,7 +71546,6 @@
 ||smmhalal.com^
 ||smmlinks.com^
 ||smmmafia.com^
-||smmmqq.com^
 ||smmserviceprovider.com^
 ||smmstar.pk^
 ||smmstore.pk^
@@ -78698,7 +78690,6 @@
 ||tpeoplesho.info^
 ||tpinfo.com.br^
 ||tpizy1uy3x.ru^
-||tpjmqq.com^
 ||tpjsqt.com^
 ||tpl.fuckxness.com^
 ||tplpages.com^
@@ -83589,7 +83580,6 @@
 ||vlcoe.co.in^
 ||vleisbook.com^
 ||vlgpkn.com^
-||vlinz.icu^
 ||vliplatform.com^
 ||vlitag.com^
 ||vlmotors.in^
@@ -85630,9 +85620,7 @@
 ||wizzloans.in^
 ||wizzybytesdata.com^
 ||wj.jiancai365.cn^
-||wjaqc.xyz^
 ||wjbrinsb.com^
-||wjbsanov.com^
 ||wjdido.com^
 ||wjdmprn.cn^
 ||wjfmlfsy.page.link^
@@ -86582,7 +86570,6 @@
 ||xianxhwy.com^
 ||xianzhice.com^
 ||xiaodongrui.com^
-||xiaoliublog.icu^
 ||xiaomaxitong.co^
 ||xiaomihue.com^
 ||xiaopinwo.com^
@@ -88015,7 +88002,6 @@
 ||yyttc.top^
 ||yyttm.top^
 ||yyujke.top^
-||yywh.vip^
 ||yyy6999.com^
 ||yzaosite.com^
 ||yzgid.cn^
