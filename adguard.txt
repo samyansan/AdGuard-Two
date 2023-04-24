@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-24 02:00:21
-! Total count: 88802
+! Version: 2023-04-24 08:25:26
+! Total count: 88800
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -20380,6 +20380,7 @@
 ||clat.edu.mx^
 ||clatchsenega.com^
 ||claudettensengimana.com^
+||claudfront.ml^
 ||claudinephillips.com^
 ||claudiocaprara.it^
 ||clauge.com^
@@ -27586,7 +27587,6 @@
 ||donkey.routinehub.co^
 ||donkeyleaf.com^
 ||donkeytourscroatia.com^
-||donku.club^
 ||donmam.skin^
 ||donmarcon.com.ar^
 ||donnahelpinghands20.com^
@@ -30694,7 +30694,6 @@
 ||esgic.1.p2l.info^
 ||esgiot.net^
 ||esheprice.online^
-||eshkol.io^
 ||eshopads2.com^
 ||eshoppingmart.pk^
 ||eshouloo.net^
@@ -32613,7 +32612,6 @@
 ||ffbl.uts.com.pk^
 ||ffcjobs.com^
 ||ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net^
-||ffi-funny.xyz^
 ||ffkdxymyji.com^
 ||ffonlineexpressions.com^
 ||ffortyimagist.com^
@@ -40000,6 +39998,7 @@
 ||hsbeknowglobe.com^
 ||hscor.saude.ws^
 ||hsdec.la^
+||hsdps.cc^
 ||hsdptnefgmkik.xyz^
 ||hseda.com^
 ||hsedoku.com^
@@ -43606,7 +43605,6 @@
 ||jeghomir.com^
 ||jehobsee.com^
 ||jehudf.com^
-||jeidd.xyz^
 ||jeinsfac.com^
 ||jeisl.com^
 ||jejiwatechsol.com^
