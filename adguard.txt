@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-25 02:00:25
-! Total count: 88987
+! Version: 2023-04-25 08:24:53
+! Total count: 88964
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -86,7 +86,6 @@
 ||09zyy.com^
 ||0a0d-d3l1vr.b-cdn.net^
 ||0a8d87mlbcac.top^
-||0aef09749a.com^
 ||0askdals10x.monster^
 ||0azx1.com^
 ||0b2qv7.cn^
@@ -3774,7 +3773,6 @@
 ||ad.huvle.com^
 ||ad.hyena.cz^
 ||ad.icheck.com.vn^
-||ad.ieurop.net^
 ||ad.iinfo.cz^
 ||ad.il.doubleclick.net^
 ||ad.iloveinterracial.com^
@@ -4250,7 +4248,6 @@
 ||adchina.com^
 ||adchoice.com^
 ||adcito.com^
-||adcl1ckspr0f1t.com^
 ||adclear.baur.de^
 ||adclerks.com^
 ||adclick.com^
@@ -4530,7 +4527,6 @@
 ||adi.vcmedia.vn^
 ||adiba.pk^
 ||adical.de^
-||adicate.com^
 ||adiceltic.de^
 ||adidm.idmnet.pl^
 ||adigi.icu^
@@ -5044,7 +5040,6 @@
 ||adprosrv.com^
 ||adprotect.net^
 ||adprotected.com^
-||adprotraffic.com^
 ||adprovi.de^
 ||adproxy.tf1.fr^
 ||adpublisher.s3.amazonaws.com^
@@ -11190,6 +11185,7 @@
 ||aqpmzoomqab.com^
 ||aqpogwawr.com^
 ||aqsmm.com^
+||aqt.adalliance.io^
 ||aqtracker.com^
 ||aqua-adserver.com^
 ||aqua-viva.cl^
@@ -11951,7 +11947,6 @@
 ||aspservice.jp^
 ||aspsupermercados.com.br^
 ||aspsupport.hu^
-||asq.ezakus.net^
 ||asrani.garudaputih.com^
 ||asretarahisanaati.ir^
 ||asrety.com^
@@ -12896,7 +12891,6 @@
 ||awbbjmp.com^
 ||awbell.com.au^
 ||awcrpu.com^
-||awdc6.com^
 ||awdigit.info^
 ||awebudapt.site^
 ||awecre.com^
@@ -14872,6 +14866,7 @@
 ||berds.org.pk^
 ||berfomoclinic.com^
 ||berg-6-82.com^
+||bergallgenion.com^
 ||bergenforbusiness.com^
 ||bergfi.com^
 ||berghaincervejaria.com.br^
@@ -17811,7 +17806,6 @@
 ||c9b0.campaign.tworiversboat.com^
 ||c9emgwai66zi.com^
 ||c9f6f.asset.tradingvein.xyz^
-||c9l.xyz^
 ||c9p7at3pctmprvb5ecq66vvd.ml^
 ||ca-as-1.agilone.com^
 ||ca-briepcardie.fr^
@@ -17878,7 +17872,6 @@
 ||cachegorilla.com^
 ||cacheserve.eurogrand.com^
 ||cachoustewing.com^
-||cackssandhog.com^
 ||caclick.baidu.com^
 ||cactusbeach.com.au^
 ||cactusglobal.io^
@@ -23526,7 +23519,6 @@
 ||ctrlshiftart.com^
 ||ctrmanager.com^
 ||cts.tradepub.com^
-||ctsdwm.com^
 ||ctsfactory.com^
 ||ctsjackupspete.com^
 ||cttracking02.com^
@@ -23553,7 +23545,6 @@
 ||cubenliven.com^
 ||cuberoot.co^
 ||cubeslichees.com^
-||cubgptmijsm.com^
 ||cubiboak.com^
 ||cubics.com^
 ||cubix-is.nl^
@@ -28712,7 +28703,6 @@
 ||e.tw.cx^
 ||e.viously.com^
 ||e.zg-api.com^
-||e007499ca9.com^
 ||e0a42e1a21669b.com^
 ||e0d4e3650c.com^
 ||e1.addthis.com^
@@ -32994,6 +32984,7 @@
 ||find-a.jp^
 ||find-ip-address.org^
 ||find-my-great-life.com^
+||findalwaglike.com^
 ||findanonymous.com^
 ||findbalance.info^
 ||findbetterresults.com^
@@ -39543,7 +39534,6 @@
 ||holyrisen.com^
 ||homazingbysr.com^
 ||homchang.site^
-||home.edt02.net^
 ||home.foni.net^
 ||home.gelsennet.de^
 ||home.townisp.com^
@@ -45755,7 +45745,6 @@
 ||kodfem.hemsida.eu^
 ||kodithailand.xyz^
 ||kodmagic1.me^
-||koekd.xyz^
 ||kofirusy.pro^
 ||kogarnish.com.au^
 ||kogutcho.net^
@@ -45934,7 +45923,6 @@
 ||kppav.info^
 ||kpqdkg.xyz^
 ||kpremium.com^
-||kprjva.cn^
 ||kps88.com^
 ||kpscodetalk.com^
 ||kpshx.douguo.com^
@@ -49495,6 +49483,7 @@
 ||mafgaq.com^
 ||mafifun.ir^
 ||mafitoys.com^
+||mafo.adalliance.io^
 ||mafobilconsulting.com^
 ||mafrarc3e9h.com^
 ||maftech-service.com^
@@ -51166,7 +51155,6 @@
 ||meltedacrid.com^
 ||meltmilk.com^
 ||meltpiratehamlet.com^
-||mem3.cn^
 ||membai.com^
 ||member-slot-game.com^
 ||member.javtvnow.xyz^
@@ -52194,7 +52182,6 @@
 ||mkkliq.com^
 ||mkkvprwskq.com^
 ||mklik.gazeta.pl^
-||mknegqjc.com^
 ||mkomari.com^
 ||mkopli-1.live^
 ||mkpioiwxoh.top^
@@ -55746,6 +55733,7 @@
 ||noonfrequentpea.com^
 ||noonimpex.com^
 ||noonschool.co.uk^
+||noonsderider.com^
 ||nooralshams.ae^
 ||noorbit.net^
 ||noorbitex.com^
@@ -57231,7 +57219,6 @@
 ||on-line.lv^
 ||on-mobi.com^
 ||on-push.com^
-||on-you.cn^
 ||on.5.p2l.info^
 ||on.animeteatr.ru^
 ||onads.com^
@@ -69191,7 +69178,6 @@
 ||securecloud-smart.com^
 ||securecnd.com^
 ||securecontentssl.com^
-||secureconv-dl.com^
 ||securecryptominex.org^
 ||securedcdn.com^
 ||securednatw.com^
@@ -79385,6 +79371,7 @@
 ||tracking-widget.fillr.com^
 ||tracking-xaxis.adsafety.net^
 ||tracking.adactioninteractive.com^
+||tracking.adalliance.io^
 ||tracking.adgoon.it^
 ||tracking.admarketplace.net.edgekey.net^
 ||tracking.ads.global-fashion-group.com^
@@ -82390,7 +82377,6 @@
 ||uzoutche.xyz^
 ||uzpmrbek.com^
 ||uzrating.com^
-||uzuarlv.cn^
 ||uzundere.bel.tr^
 ||uzuri-shop.com^
 ||uzxkuwalnjp.com^
@@ -82543,7 +82529,6 @@
 ||valorat.mx^
 ||valoria.org^
 ||valoria.ro^
-||valornutricional.cc^
 ||valpeiros.com^
 ||valsgaard-kofod.dk^
 ||valshara.com^
@@ -84606,7 +84591,6 @@
 ||wdygoi.xyz^
 ||we-animate.com^
 ||we-lines.com^
-||we.noonsderider.com^
 ||we2gotgame.com^
 ||we5ayurveda.com^
 ||wea5lkaf63loos8a.com^
@@ -85835,7 +85819,6 @@
 ||wm-panel.com^
 ||wm-space.youero.com^
 ||wm.baidu.com^
-||wm.findalwaglike.com^
 ||wm.mipcdn.com^
 ||wm.szdushi.com.cn^
 ||wma.io^
@@ -86473,7 +86456,6 @@
 ||wxskqy.cn^
 ||wxspfkln.com^
 ||wxtp.cdn.bcebos.com^
-||wxxmt.xyz^
 ||wxyn0o3xmora.com^
 ||wy-technology.com^
 ||wy.5.p2l.info^
@@ -86502,7 +86484,6 @@
 ||wyypykoenie.xyz^
 ||wz-adserver.de^
 ||wz-werbewelt.de^
-||wz.bergallgenion.com^
 ||wzamowieniach.pl^
 ||wzdzht7am5.com^
 ||wzjijia.com^
@@ -86792,7 +86773,6 @@
 ||xionex.in^
 ||xipancasguincho.com.br^
 ||xipheglipy.com^
-||xirkguius.com^
 ||xiryrnrz.com^
 ||xissidearm.com^
 ||xitongku.cc^
@@ -86811,7 +86791,6 @@
 ||xjusqurbspwpjb.xyz^
 ||xjvwdeehxudl.xyz^
 ||xkdijkdiefu.com^
-||xkdlqq.com^
 ||xketil.com^
 ||xkhall.xyz^
 ||xkpbcd.com^
@@ -86834,7 +86813,6 @@
 ||xlog.tiktokv.com^
 ||xlow.xyz^
 ||xlrm-tech.com^
-||xlsds888.xyz^
 ||xlsurgical.com^
 ||xlviirdr.com^
 ||xlvlnpkeqz.com^
@@ -87288,7 +87266,6 @@
 ||xueserverhost.com^
 ||xuexi.hydcd.com^
 ||xueyanshan.com^
-||xueyugaoyuan.xyz^
 ||xufmuhavdpze.com^
 ||xujanxdro.com^
 ||xujingch.com^
