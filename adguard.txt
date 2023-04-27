@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-27 02:00:43
-! Total count: 89617
+! Version: 2023-04-27 08:27:52
+! Total count: 89587
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -317,7 +317,6 @@
 ||121phonesex.co.uk^
 ||121studies.com^
 ||1221e236c3f8703.com^
-||1223f33efe.com^
 ||123-counter.de^
 ||123-movies.bz^
 ||123.manga1001.top^
@@ -786,7 +785,6 @@
 ||27vckaccbto7p761.pro^
 ||2819.linux2.testsider.dk^
 ||283.laobanfa.com^
-||284d0f7c5a.com^
 ||288family.club^
 ||289931.com^
 ||28acglz.com^
@@ -1249,7 +1247,6 @@
 ||400-sy.com^
 ||4006825178.com^
 ||401aww.com^
-||4030b44c32.com^
 ||404errorpage.com^
 ||404mobi.com^
 ||406259006.student.yru.ac.th^
@@ -1802,7 +1799,6 @@
 ||69688qp.com^
 ||6969.javher.com^
 ||69741211.clicknplay.to^
-||69852b1734.com^
 ||698a5.asset.tradingvein.xyz^
 ||69boysex.com^
 ||69er.de^
@@ -3007,7 +3003,6 @@
 ||abnegatespitefulweep.com^
 ||abnegationbanquet.com^
 ||abnegationsnuff.com^
-||abnetfriths.com^
 ||abnormalwidth.com^
 ||abnqakazxof.com^
 ||aboali1.net^
@@ -14582,7 +14577,6 @@
 ||bebreloomr.com^
 ||becaa.org^
 ||becameaimcap.com^
-||becamechorist.com^
 ||becamesensational.com^
 ||becanium.com^
 ||becasvasconcelos.com^
@@ -20374,7 +20368,6 @@
 ||cj-cy.com^
 ||cjayeqmk.com^
 ||cjbmanagement.com^
-||cjcvd6.com^
 ||cjenxpjxxhdwtp.xyz^
 ||cjf25jklrwqt.com^
 ||cjgcedu.com^
@@ -23998,7 +23991,6 @@
 ||cynicalspireheroism.com^
 ||cynicaugural.com^
 ||cyno502.com^
-||cynocraft.com^
 ||cypiral.org^
 ||cyppolice.com^
 ||cypr.com^
@@ -24726,7 +24718,6 @@
 ||d3d0wndor0l4xe.cloudfront.net^
 ||d3d52lhoy0sh2w.cloudfront.net^
 ||d3d54j7si4woql.cloudfront.net^
-||d3d98dc11c.com^
 ||d3d9pt4go32tk8.cloudfront.net^
 ||d3div1mtym39ic.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
@@ -28570,8 +28561,6 @@
 ||dunhilltraveldeals.com^
 ||dunia-selam.com^
 ||duniaparabola.com^
-||dunlopfermi.com^
-||dunnedemicant.com^
 ||duoclieunamduong.com.vn^
 ||duocnamduong.com^
 ||duocphamtramhuongttt.com^
@@ -28723,7 +28712,6 @@
 ||dygassets.dygdigital.com^
 ||dygtc.com^
 ||dyh1wzegu1j6z.cloudfront.net^
-||dyhnbgtsl.xyz^
 ||dyino.com^
 ||dyj8pbcnat4xv.cloudfront.net^
 ||dylanwong.com^
@@ -28862,7 +28850,6 @@
 ||e2e.mashable.com^
 ||e2ertt.com^
 ||e3.adpushup.com^
-||e3195a7812.com^
 ||e335udnv6drg78b7.com^
 ||e346ab6c68.click^
 ||e3651.lap.detroitdragway.com^
@@ -29776,7 +29763,6 @@
 ||eisnt.com^
 ||eisual.com^
 ||eitago.com^
-||eitb7.top^
 ||eitechindia.com^
 ||eiteribesshaints.com^
 ||eitfromthe.com^
@@ -29961,7 +29947,6 @@
 ||elianacaranestetica.com.br^
 ||elianaelioluxuryhomes.com^
 ||elianaeliompcs.com^
-||elianicben.com^
 ||elias-meller.com^
 ||elicitsfoozle.com^
 ||elicoaga.xyz^
@@ -30676,7 +30661,6 @@
 ||epom.com^
 ||epomads2.4shared.com^
 ||epomapps.com^
-||epoortmu.com^
 ||epost.122.2o7.net^
 ||epotaidhdbg.com^
 ||epoulefashion.com^
@@ -32314,7 +32298,6 @@
 ||fanghuzhao.co^
 ||fangirlmag.com^
 ||fanjin.name^
-||fanleaffalter.com^
 ||fannonglairin.com^
 ||fanosrah.ir^
 ||fanplayr.com^
@@ -35295,7 +35278,6 @@
 ||gaudybeginner.com^
 ||gaug.es^
 ||gaulshiite.life^
-||gaumishhipshot.com^
 ||gauntletjanitorjail.com^
 ||gaupremob.cf^
 ||gauqeo.xyz^
@@ -35701,7 +35683,6 @@
 ||geovary.com^
 ||geovisite.com^
 ||geovisite.ovh^
-||geowellinteriors.co.ke^
 ||geozo.com^
 ||gepeszmuhely.hu^
 ||gepex.ma^
@@ -44311,7 +44292,6 @@
 ||jndczg.com^
 ||jndfkrtvdttajd.xyz^
 ||jndfrqz.com^
-||jndyl.xyz^
 ||jnef.org.ng^
 ||jnfeglobal.com^
 ||jnhdmksj.top^
@@ -53069,6 +53049,7 @@
 ||molilife.com^
 ||molinapersonalcar.com.br^
 ||molinosdearrozkristal.com.py^
+||molliefidac.com^
 ||mollnia.com^
 ||mollusk.12grados.com^
 ||mollusk.saferingz.com^
@@ -53293,7 +53274,6 @@
 ||moradu.com^
 ||moraec.xyz^
 ||morar.biz^
-||morbidestates.co.ke^
 ||morbidlocally.com^
 ||morcelik.github.io^
 ||mordenex.com^
@@ -55949,7 +55929,6 @@
 ||nixozz.com^
 ||nization.com^
 ||nj.5.p2l.info^
-||nj.molliefidac.com^
 ||njaja.com^
 ||njamlya.top^
 ||njcengpianwang.cn^
@@ -58572,7 +58551,6 @@
 ||otween.com^
 ||otwiss.xyz^
 ||otwwtutujwa.com^
-||oubqzcg.cn^
 ||ouchojig.xyz^
 ||ouchruse.com^
 ||oudccdjvh.com^
@@ -61006,7 +60984,6 @@
 ||pitpastraja.com^
 ||pitrupuja.com^
 ||pituitosus.com^
-||piturisieged.com^
 ||pityneedsdads.com^
 ||pitysuffix.com^
 ||piupiucreed.life^
@@ -63933,7 +63910,6 @@
 ||pv.pjtsu.com^
 ||pv4b.com^
 ||pvaemail.com^
-||pvaotp.online^
 ||pvclouds.com^
 ||pvd.to^
 ||pvhgws7.com^
@@ -73918,7 +73894,6 @@
 ||standroogly.com^
 ||standtrouble.com^
 ||standupbiz.com^
-||stangsgarage.com^
 ||stankyrich.com^
 ||stansoam.com^
 ||stanview.com^
@@ -78147,7 +78122,6 @@
 ||thetrafficstat.net^
 ||thetranny.online^
 ||thetrue.in^
-||thetruthi.online^
 ||thetulumtakeover.com^
 ||theturfman.com.au^
 ||thetwindollar.com^
@@ -79372,7 +79346,6 @@
 ||tour.brazzers.com^
 ||tour.cineble.com^
 ||tour.sweetdiscreet.com^
-||touracopilaf.com^
 ||tourguideinsrilanka.com^
 ||tourismtripbelitung.net^
 ||tourn.co^
@@ -80858,7 +80831,6 @@
 ||trmget.eu^
 ||trmnsite.com^
 ||trmobc.com^
-||trmsrilanka.com^
 ||trmwidget.eu^
 ||trndzglobal.com^
 ||trocado.at^
@@ -85694,7 +85666,6 @@
 ||wenqixiefu.cn^
 ||wensaidoheth.xyz^
 ||wensixuetang.com^
-||wenxiaowu.xyz^
 ||wenxue.weimeifan.net^
 ||wenzhougy.cn^
 ||weokd09rt.one^
@@ -87017,7 +86988,6 @@
 ||wwoww.xyz^
 ||wwowww.xyz^
 ||wwpon365.ru^
-||wwqfqq.com^
 ||wwrpfevyca.com^
 ||wwry.xyz^
 ||wwsercher.biz^
