@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-28 14:00:40
-! Total count: 89996
+! Version: 2023-04-28 20:00:53
+! Total count: 89997
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -1919,6 +1919,7 @@
 ||76e.org^
 ||772webdesign.com^
 ||77417.cn^
+||7766.org^
 ||777-888.ru^
 ||777b.campaign.tworiversboat.com^
 ||777seo.com^
