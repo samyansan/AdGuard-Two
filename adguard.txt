@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-29 20:00:46
-! Total count: 90130
+! Version: 2023-04-30 02:00:41
+! Total count: 90129
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -86853,7 +86853,6 @@
 ||wishmayvaganti.website^
 ||wishposh.net^
 ||wisingpianeta.uno^
-||wissenwhen.live^
 ||wister.biz^
 ||wistfulcomet.com^
 ||wistfulflight.com^
