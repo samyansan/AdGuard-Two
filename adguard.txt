@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-30 20:00:43
-! Total count: 90059
+! Version: 2023-05-01 02:00:27
+! Total count: 90058
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -76194,7 +76194,6 @@
 ||svpmk66.com^
 ||svr-prc-01.com^
 ||svrcreations.com^
-||svrojrv.cn^
 ||svtrd.com^
 ||svyksa.info^
 ||sw.looksmart.com^
