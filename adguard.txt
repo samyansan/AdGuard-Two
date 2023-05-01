@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-05-01 20:00:44
-! Total count: 89922
+! Version: 2023-05-02 02:00:42
+! Total count: 89899
 
 ||0-000.store^
 ||0.code.cotsta.ru^
@@ -723,7 +723,6 @@
 ||24businessnews.com^
 ||24counter.com^
 ||24handelsmagazin.com^
-||24hoursuptodatecdn.net^
 ||24hstatic.com^
 ||24justice.ae^
 ||24justice.com^
@@ -1082,8 +1081,6 @@
 ||365liveradio.com^
 ||365plushousings.co.uk^
 ||365sbaffiliates.com^
-||367207f60c.com^
-||369068290f.com^
 ||3692022.com^
 ||36p3oqnmfjdp.top^
 ||36pn.com^
@@ -1317,7 +1314,6 @@
 ||4buildapp.com^
 ||4c935d6a244f.com^
 ||4cinsights.com^
-||4cjh.xyz^
 ||4cock.com^
 ||4coresvisual.com.br^
 ||4cus3r0g2axu.top^
@@ -2708,7 +2704,6 @@
 ||aaftin.com^
 ||aag.yahooapis.jp^
 ||aageyseright.in^
-||aagm.link^
 ||aahdc.gov.et^
 ||aahvz.top^
 ||aaidesign.org^
@@ -3425,7 +3420,6 @@
 ||acoustoopticmodulator.com^
 ||acpak.com.pk^
 ||acproyectos.com^
-||acqc9.com^
 ||acquaintanceexemptspinach.com^
 ||acquaintedexpectations.com^
 ||acquaintedpostman.com^
@@ -8098,7 +8092,6 @@
 ||ajiramedia.com^
 ||ajirascholars.com^
 ||ajisaq.com^
-||ajjgune.cn^
 ||ajjhtetv87.com^
 ||ajkcmuazxf.com^
 ||ajkshopee.com^
@@ -14721,7 +14714,6 @@
 ||beiyz.com^
 ||bejolteonor.com^
 ||bekannt-im-web.de^
-||bekcd.xyz^
 ||bekhwd.xyz^
 ||beklefkiom.com^
 ||beklinkor.com^
@@ -17609,7 +17601,6 @@
 ||bxbtech.com.au^
 ||bxczchdxynw.com^
 ||bxhkvathr.xyz^
-||bxtpydfuyu.com^
 ||bxvotlwwecpp.com^
 ||by-tesla.info^
 ||by.dyq.cn^
@@ -18895,7 +18886,6 @@
 ||cdiabetes.com^
 ||cdim9.com^
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^
-||cdkke.xyz^
 ||cdlclasses.net^
 ||cdldistributiongulf.com^
 ||cdlto.com.br^
@@ -32760,7 +32750,6 @@
 ||feifei.mobi^
 ||feignoccasionedmound.com^
 ||feignthat.com^
-||feiju12138.xyz^
 ||feilan5.cn^
 ||feisia1.cn^
 ||feistyhelicopter.com^
@@ -34555,7 +34544,6 @@
 ||fritoburgers.com^
 ||fritterhurtfuldowry.com^
 ||frize.com.pe^
-||frizingbarnful.com^
 ||frizzerfoehns.digital^
 ||frmclinicsuruguay.com^
 ||frmsafe.com^
@@ -43422,7 +43410,6 @@
 ||isolution.lk^
 ||isonlynews.net^
 ||isopachfumes.live^
-||isopticluckier.com^
 ||isortflorent.com^
 ||isp.com.py^
 ||isp.linkpc.net^
@@ -44303,7 +44290,6 @@
 ||jinjaoathful.uno^
 ||jink.de^
 ||jinkads.de^
-||jinmin.online^
 ||jinna.vn^
 ||jinrongmetal.com^
 ||jinrongwang.net^
@@ -45448,7 +45434,6 @@
 ||kbctii.xyz^
 ||kbjmhlmfriwv.top^
 ||kbknujjtpnqq.com^
-||kbnjmolhbwxqkks.com^
 ||kbpppfyvd.com^
 ||kbprishtina.com^
 ||kbqebfcubeiaa.com^
@@ -51006,7 +50991,6 @@
 ||maxibigca.com^
 ||maxicalog.com^
 ||maxidom.su^
-||maxigamma.com^
 ||maxilisactyve.com^
 ||maxim.122.2o7.net^
 ||maximherein.com^
@@ -53396,7 +53380,6 @@
 ||monticellocountryrealtors.com^
 ||monticellorealtors.com^
 ||montimedical.cl^
-||montqwaub.com^
 ||montrealshawarma.com^
 ||montserratpera.cl^
 ||monu.delivery^
@@ -56484,7 +56467,6 @@
 ||notificationallow.com^
 ||notificationtest.com^
 ||notifpush.com^
-||notifpushnext.azurewebsites.net^
 ||notifscreen.com^
 ||notifsendback.com^
 ||notifsworld.com^
@@ -67212,7 +67194,6 @@
 ||rknacabamentos.com.br^
 ||rkness.org^
 ||rkomf.com^
-||rksnqq.com^
 ||rktaxation.co.uk^
 ||rktch.com^
 ||rktu.com^
@@ -67791,7 +67772,6 @@
 ||rsvom.com^
 ||rswtrust.com^
 ||rsz.sk^
-||rszqtry.cn^
 ||rt.adtiming.com^
 ||rt.flix360.com^
 ||rt.rtoaster.jp^
@@ -72667,7 +72647,6 @@
 ||snitcher.com^
 ||sniwogvtctnof.top^
 ||snlynotquite.buzz^
-||snmbnwkjjqr.com^
 ||snnd.co^
 ||snobdomobeyeo.com^
 ||snodlycaccias.com^
@@ -78922,7 +78901,6 @@
 ||tiresomethunder.com^
 ||tirimbina.org^
 ||tiringjollyhalfmoon.com^
-||tirlszunyite.com^
 ||tiroch.com.br^
 ||tiroler-insider.com^
 ||tirolerupdate.com^
@@ -89469,7 +89447,6 @@
 ||zgsxhx.com^
 ||zgxrht.com^
 ||zgyemy.com^
-||zgyvg.top^
 ||zgzlw.biz^
 ||zhaixing.link^
 ||zhangbaochang.top^
