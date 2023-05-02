@@ -3,7 +3,7 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-05-02 09:43:16
+! Version: 2023-05-02 09:45:46
 ! Total count: 1719
 
 #360公共DNS
