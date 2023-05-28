@@ -3,7 +3,7 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-05-28 02:00:18
+! Version: 2023-05-28 08:28:08
 ! Total count: 724
 
 *.bj.bcebos.com
