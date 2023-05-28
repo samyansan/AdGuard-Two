@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-05-28 20:00:34
-! Total count: 1801
+! Version: 2023-05-29 02:00:35
+! Total count: 1802
 
 *.a.kwimgs.com
 *.a.market.xiaomi.com
@@ -1615,6 +1615,7 @@ user-api-v2.oray.com
 user-images.githubusercontent.com
 uxip.meizu.com
 v.firebog.net
+v.miguvideo.com
 v.shopify.com
 v.smtcdns.net
 v1-vod.kwaicdn.com
