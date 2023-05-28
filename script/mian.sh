@@ -4,6 +4,8 @@
 curl -o i-1.txt https://raw.githubusercontent.com/samyansan/AdRules-SamYan/main/Rules/allowdomain.txt
 curl -o i-2.txt https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt
 curl -o i-3.txt https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt
+curl -o i-4.txt https://raw.githubusercontent.com/Potterli20/file/main/allow/Domains
+curl -o i-5.txt https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
 
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
