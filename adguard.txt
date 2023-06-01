@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-06-01 08:37:18
-! Total count: 1803
+! Version: 2023-06-01 14:00:29
+! Total count: 1804
 
 *.a.kwimgs.com
 *.a.market.xiaomi.com
@@ -1165,6 +1165,7 @@ p2.a.yximgs.com
 p2.d.meituan.net
 p2.eckwai.com
 p2.music.126.net
+p3.ecombdimg.com
 p3.music.126.net
 p4.d.meituan.net
 p4.music.126.net
