@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-06-03 08:29:31
-! Total count: 1804
+! Version: 2023-06-03 14:00:18
+! Total count: 1807
 
 *.a.kwimgs.com
 *.a.market.xiaomi.com
@@ -616,6 +616,7 @@ fbcdn.net
 fc1tn.baidu.com
 fe2cr.update.msft.com.trafficmanager.net
 feedburner.com
+fexclick.baidu.com
 fgb0.market.xiaomi.com
 fgc0.market.xiaomi.com
 file.market.xiaomi.com
@@ -738,6 +739,7 @@ hsforms.com
 hsforms.net
 htrace.wetvinfo.com
 hubpd.com
+huluxia.com
 huoying666.com
 hw2.a.kwimgs.com
 i.cdn.turner.com
@@ -872,6 +874,7 @@ j.gamersky.com
 j.gamersky.com.cdn20.com
 j5.dfcfw.com
 ja2.gamersky.com
+jango.com
 jav321.com
 jcloud-cdn.com
 jiagu.360.cn
