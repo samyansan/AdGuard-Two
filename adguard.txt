@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-06-18 02:00:27
-! Total count: 5376
+! Version: 2023-06-18 08:32:21
+! Total count: 5377
 
 *.bj.bcebos.com
 *.xhamster.com
@@ -2283,6 +2283,7 @@ i0.wp.com
 i01.appmifile.com
 i01.appmifile.com.baishan-cloud.net.
 i1.ytimg.com
+i2.paste.pics
 i9.ytimg.com
 ia.hit.interia.pl
 iad.liveperson.net
