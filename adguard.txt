@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-06-21 08:28:57
-! Total count: 5377
+! Version: 2023-06-21 14:00:27
+! Total count: 5378
 
 *.bj.bcebos.com
 *.xhamster.com
@@ -5328,6 +5328,7 @@ yts.mx
 ytstatic.l.google.com
 yu.ac.kr
 yui.yahooapis.com
+yule.sohu.com
 yummyanime.tv
 yunfile.com
 yusercontent.com
