@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-06-24 20:00:44
-! Total count: 5378
+! Version: 2023-06-25 02:00:33
+! Total count: 5384
 
 *.bj.bcebos.com
 *.xhamster.com
@@ -514,6 +514,7 @@ appcloud.ironbeast.io
 appconf.heytapdownload.com
 appdownload.alicdn.com
 appengine.google.com
+apple-dns.net
 apple.com
 appleid.apple.com
 applemc.fun
@@ -1094,6 +1095,7 @@ cmaf.fly.us.hbomaxcdn.com
 cmaf.lv3.us.hbomaxcdn.com
 cmd.com
 cmp-cdn.ghostery.com
+cmp.sky.it
 cmpassport.com
 cms-static.eweka.nl
 cmu.edu
@@ -1130,6 +1132,7 @@ collector.appconsent.io
 collegehumor.com
 columbia.edu
 com-verification.id
+com.br
 com.com
 comments.br24.de
 community.cleanbrowsing.org
@@ -2302,6 +2305,7 @@ ichnaea-web.netflix.com
 ichnaea.netflix.com
 icio.us
 icloud.com
+icloud.net
 icons.tivision.ru
 id.elsevier-ae.com
 id.elsevier.com
@@ -3451,6 +3455,7 @@ ping.m9009-us-mia-02-zl2j8g5r.perfectlyprivatedomain.org
 ping.pinyin.sogou.com
 ping.taplytics.com
 ping.ui.com
+pingback.giphy.com
 pingjs.qq.com
 pings.conviva.com
 pinimg.com
@@ -4225,6 +4230,7 @@ stileproject.com
 stisa.org.cn
 stitcher.pluto.tv
 stitcher2.acast.com
+stocks-edge.apple.com
 stopklatka.pl
 storage.googleapis.com
 storage.mds.yandex.net
