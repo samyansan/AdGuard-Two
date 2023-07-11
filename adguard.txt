@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-07-11 08:28:34
-! Total count: 4201
+! Version: 2023-07-11 14:00:37
+! Total count: 4202
 
 *.bj.bcebos.com
 *.xhamster.com
@@ -4202,6 +4202,7 @@ zoho.com
 zoho.in
 zombo.com
 zoo.sandiegozoo.org
+zoosnet.net
 zradio.org
 zscaler.com
 ztgame.com
